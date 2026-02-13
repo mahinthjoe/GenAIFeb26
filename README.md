@@ -27,15 +27,15 @@ Home Assignment
 • 	So effectively: ~1,014,808 tokens (1,047,576 – 32,768)
 *   GPT4.1 and GPT4.1-Mini are designed for different use cases and prices $2 vs $0.04 respectively
 *   Key Differences
-
-|Table                    |  **GPT-4.1**	                           |**GPT-4.1 Mini**|
-|**Performance**          |	High performance for complex tasks	     |Strong general-purpose reasoning
-|**Cost**	                |More expensive	                          |Up to 83% cheaper|
-|**Latency**              |	Higher latency                          |	Lower latency|
-|**Context Window**       |	1 million tokens                        |	1 million tokens|
-|**Ideal Use Cases**      |	Advanced coding, in-depth analysis	     |Interactive tools, chatbots|
-|**Instruction Following**|	Excellent, handles complex instructions	|Good, but less robust than GPT-4.1|
-|**Multimodal Support**   |	Yes, supports text and images	          |Yes, supports text and images|
+| Category              | GPT-4.1                              | GPT-4.1 Mini                         |
+|------------------------|--------------------------------------|--------------------------------------|
+| **Performance**        | High performance for complex tasks   | Strong general-purpose reasoning     |
+| **Cost**               | More expensive                       | Up to 83% cheaper                    |
+| **Latency**            | Higher latency                       | Lower latency                        |
+| **Context Window**     | 1 million tokens                     | 1 million tokens                     |
+| **Ideal Use Cases**    | Advanced coding, in-depth analysis   | Interactive tools, chatbots          |
+| **Instruction Following** | Excellent, handles complex instructions | Good, but less robust than GPT-4.1   |
+| **Multimodal Support** | Yes, supports text and images        | Yes, supports text and images        |
 ##### GPT4o
 ###### Context Window:
 *  128k

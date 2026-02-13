@@ -7,7 +7,7 @@ Home Assignment
 * Context window = how many tokens the model can handle at once (input + output combined).
 * Input tokens = the tokens you send to the model.When you open any model page on OpenRouter (including GPT‑4.1), you will notice something important Input Tokens is not Listed you calculate it using the model’s published limits.
 * Output tokens = the tokens the model generates in response.
-Output Tokens = Context Window - Input Tokens
+**Output Tokens = Context Window - Input Tokens**
 #### Open ai -3 models
 ##### OpenAI — GPT‑4.1
 ###### Context Window:
@@ -27,14 +27,15 @@ Output Tokens = Context Window - Input Tokens
 • 	So effectively: ~1,014,808 tokens (1,047,576 – 32,768)
 *   GPT4.1 and GPT4.1-Mini are designed for different use cases and prices $2 vs $0.04 respectively
 *   Key Differences
-|Table|  **GPT-4.1**	|**GPT-4.1 Mini**|
-|**Performance**|	High performance for complex tasks	|Strong general-purpose reasoning
-|**Cost**	|More expensive	|Up to 83% cheaper|
-|**Latency**|	Higher latency|	Lower latency|
-|**Context Window**|	1 million tokens|	1 million tokens|
-|**Ideal Use Cases**|	Advanced coding, in-depth analysis	|Interactive tools, chatbots|
+
+|Table                    |  **GPT-4.1**	                           |**GPT-4.1 Mini**|
+|**Performance**          |	High performance for complex tasks	     |Strong general-purpose reasoning
+|**Cost**	                |More expensive	                          |Up to 83% cheaper|
+|**Latency**              |	Higher latency                          |	Lower latency|
+|**Context Window**       |	1 million tokens                        |	1 million tokens|
+|**Ideal Use Cases**      |	Advanced coding, in-depth analysis	     |Interactive tools, chatbots|
 |**Instruction Following**|	Excellent, handles complex instructions	|Good, but less robust than GPT-4.1|
-|**Multimodal Support**|	Yes, supports text and images	|Yes, supports text and images|
+|**Multimodal Support**   |	Yes, supports text and images	          |Yes, supports text and images|
 ##### GPT4o
 ###### Context Window:
 *  128k

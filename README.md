@@ -46,9 +46,24 @@ Quote:Anything that can be said can be said clearly. Ludwig Wittgenstein
 #### Max Output Tokens:8,000  
 #### Input Tokens:168,000=200,000-8,000
 
-### Qwen 2.5 (72B Instruct)
-#### Context Window: 32,768
+###  Qwen3 Coder Next
+#### Context Window: 262,144
 #### Max Output Tokens:8,192  
-#### Input Tokens:24,547=32,768 - 8,192
+#### Input Tokens:253,932=262,144 - 8,192
+
+### Qwen3 VL 32B Instruct
+#### Context Window: 131,072 
+#### Max Output Tokens:8,192 (OpenRouter uses this output cap for Qwen3 VL models)
+#### Input Tokens: 122,880 = 131,072 - 8,192
+
+###  Qwen3 Max
+#### Context Window: 262,144
+#### Max Output Tokens:8,192  
+#### Input Tokens:253,932=262,144 - 8,192
 
 3) Check for the Moderation models in groq (https://console.groq.com/)
+- openai/moderation-latest
+- openai/text-moderation-latest
+- openai/text-moderation-stable
+
+

@@ -2,7 +2,7 @@
 ## Repository Created for sharing Code with TestLeaf Course on GenAI February'26
 Quote:Anything that can be said can be said clearly. Ludwig Wittgenstein
 ### Assignment 1
-Home Assignment
+
 1) From open router ai - https://openrouter.ai/models Context window,input token and output token?
 * Context window = how many tokens the model can handle at once (input + output combined).
 * Input tokens = the tokens you send to the model.When you open any model page on OpenRouter (including GPT‑4.1), you will notice something important Input Tokens is not Listed you calculate it using the model’s published limits.
@@ -43,9 +43,12 @@ Home Assignment
 
 ### Claude 3.5 Sonnet
 #### Context Window: 200,000
-#### Max Output Tokens:32,000  
-#### Input Tokens:168,000=200,000-32,000
+#### Max Output Tokens:8,000  
+#### Input Tokens:168,000=200,000-8,000
 
+### Qwen 2.5 (72B Instruct)
+#### Context Window: 32,768
+#### Max Output Tokens:8,192  
+#### Input Tokens:24,547=32,768 - 8,192
 
-###Qwen 3 models)
 3) Check for the Moderation models in groq (https://console.groq.com/)

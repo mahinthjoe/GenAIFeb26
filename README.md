@@ -8,31 +8,27 @@ Home Assignment
 * Input tokens = the tokens you send to the model.When you open any model page on OpenRouter (including GPT‑4.1), you will notice something important Input Tokens is not Listed you calculate it using the model’s published limits.
 * Output tokens = the tokens the model generates in response.
 **Output Tokens = Context Window - Input Tokens**
-#### Open ai -3 models
-##### OpenAI — GPT‑4.1
-###### Context Window:
-•    1.05M
-###### Max Output Tokens:
-• 	32.8K
-###### Input Tokens:
+
+### OpenAI — GPT‑4.1
+#### Context Window:     1.05M
+#### Max Output Tokens: 	32.8K
+#### Input Tokens:
 • 	Up to the full context window minus output
  OpenRouter Shows Rounded Display so 1.05M - 32.8K Resolves to Exact context Window Shown Below
 • 	So effectively: ~1,014,808 tokens (1,047,576 – 32,768)
-##### GPT‑4.1‑mini
-###### Context Window:
-*  1.05M
-###### Max Output Tokens:
-*   32.8K
-###### Input Tokens:
+
+### OpenAI GPT‑4.1‑mini
+#### Context Window:     1.05M
+#### Max Output Tokens:    32.8K
+#### Input Tokens:
 • 	So effectively: ~1,014,808 tokens (1,047,576 – 32,768)
 *   GPT4.1 and GPT4.1-Mini are designed for different use cases and prices $2 vs $0.04 respectively
-##### GPT4o
-###### Context Window:
-*  128k
-###### Max Output Tokens:
-* 16.4k 
+### OpenAI GPT4o
+#### Context Window:  128k
+#### Max Output Tokens: 16.4k 
 ###### Input Tokens:
 * Effectively 128000-16348 = 111616 Tokens
+
 ###Claude 3 models
 #####
 ######

@@ -62,6 +62,10 @@ Quote:Anything that can be said can be said clearly. Ludwig Wittgenstein
 #### Input Tokens:253,932=262,144 - 8,192
 
 3) Check for the Moderation models in groq (https://console.groq.com/)
+* In Groq’s console, “moderation models” refers to safety/guard models to filter or classify unsafe content before or after it hits your main LLM
+* Use guard models as a gateway: all prompts and/or outputs go through moderation before reaching users.
+* Separate concerns: one model for safety, another for reasoning/content; this makes it easier to update policies without touching prompts.
+* Log moderation results to review false positives/negatives and refine thresholds or handling logic over time.
 - openai/moderation-latest
 - openai/text-moderation-latest
 - openai/text-moderation-stable

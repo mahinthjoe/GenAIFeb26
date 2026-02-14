@@ -27,25 +27,29 @@ Home Assignment
 ### OpenAI GPT4o
 #### Context Window: 128k
 #### Max Output Tokens: 16.4k 
-###### Input Tokens:
+#### Input Tokens:
 * Effectively 128000-16348 = 111616 Tokens
 
-###Claude 3 models
-#####
-######
-######
-######
-#####
-######
-######
-######
-#####
-######
-######
-######
+### Claude 3 Haiku — (OpenRouter Model Specs)
+#### Context Window: 200k
+#### Max Output Tokens: 32k  
+#### Input Tokens: =168000=200000-32000
+* OpenRouter extends the output limit for Claude models to 32K, even though Anthropic’s default is lower.
+This is why my assignment uses the OpenRouter values.
+###
+#### Context Window: 
+#### Max Output Tokens:  
+#### Input Tokens:
+
+###
+#### Context Window: 
+#### Max Output Tokens:  
+#### Input Tokens:
+
+
 ###Qwen 3 models)
-#####
-######
+### 
+####
 ######
 ######
 ######

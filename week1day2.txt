@@ -1,0 +1,92 @@
+Agenda for the day
+
+---Recap
+---LLM Anatomy
+
+Azure AI
+ ----Open ai
+ ----Claude
+ ------------Private Azure
+
+AWS
+ ---Bedrock 
+      ----Claude models
+      ------Private AWS
+
+
+1)Input Processing
+a) Prompt to tokens
+Input to chatagents/agents ---Prompts
+
+Converted to Tokens-Generate only 10 testcases for UPI Fund transfer
+https://platform.openai.com/tokenizer
+
+The cat sat on the --Tokens
+
+b) Tokens will be converted to embeddings
+  ----Numerical representation
+
+Semantic search --Meaningful
+
+The cat sat on the
+  Ans --mat
+
+The cat sat on the mat
+
+Input processing
+Prompt
+Prompt -Token
+Tokens -Embeddings [numerical representations for semantic/meaningful Search]
+
+I went to bank
+--Financial Institution
+--River Bank
+--Blood Bank
+--Book Bank
+
+2) Model Architecure (Transformer)
+
+I went to bank to deposit money
+
+GPT-3.5 96 layers
+GPT-4 -128 layers
+
+Self attention Block
+I went to bank to deposit money
+Comparison and scores with relevancy for *Context*
+-----Bank as a Financial Insitution
+
+Feed Forward network(FFN)
+GPT-3 - 96 layers
+GPT 4 - 128 Layers
+
+FFN Pass the data from self attention score from one layer to another
+(96 layers/128 layers)
+Also checks the relevance score (Secondary check)---Relevance
+If self attention block doesnt gives appropriate score 
+FFN Rescores
+
+3) Training
+------Pre-trained
+------Fine tuned
+
+Open AI,Meta ---data is trained by organization (pre trained)
+----45000$
+
+4) Output Generation
+Greedy Search 
+Beam Possibilites
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -66,3 +66,15 @@ Groq's console focuses on fast inference LLMs. Use OpenAI's separate Moderation 
 - Log results for refinement
 - Separate safety concerns from reasoning models
 - Available models: `openai/moderation-latest`, `openai/text-moderation-latest`, `openai/text-moderation-stable`
+### How they are used
+You send your prompt or model output to the moderation endpoint.
+The moderation model returns:
+- flagged categories
+- safety scores
+- whether the content is allowed
+### Why Groq uses OpenAI moderation
+- Groq focuses on high‑speed inference for LLMs (Llama, Qwen, Mixtral, Gemma).
+- Safety filtering is delegated to OpenAI’s moderation models for consistency and reliability.
+### Correct Summary
+- Groq’s console does not list native moderation models.
+- Instead, Groq provides OpenAI moderation models for safety filtering

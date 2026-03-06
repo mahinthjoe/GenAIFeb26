@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignments
 
 ## OpenRouter Model Token Limits
 
@@ -78,3 +78,41 @@ The moderation model returns:
 ### Correct Summary
 - Groq’s console does not list native moderation models.
 - Instead, Groq provides OpenAI moderation models for safety filtering
+
+# Postman API Homework (S07–S22)
+## Generative AI – API Testing & Payload Validation
+- Purpose of each API
+- Correct payload structure
+- Required modifications
+- Expected behavior
+- QA validation notes
+### S07 – Generating Accessibility From DOM (HW)
+#### Objective
+- Analyze an Accessibility DOM and generate WCAG 2.2 compliance observations.
+Key Requirements
+- Use only the provided DOM
+- No assumptions about styling or behavior
+- Classify findings under A → AA → AAA
+- Provides WCAG_Level, Criterion, Observation, Compliance_Status, Evidence
+Validated Payload Structure
+`{
+  "model": "meta-llama/llama-4-scout-17b-16e-instruct",
+  "temperature": 0.1,
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are an Accessibility Specialist and Senior QA Architect..."
+    },
+    {
+      "role": "user",
+      "content": "I — INSTRUCTION\nAnalyze the provided Accessibility DOM..."
+    }
+  ]
+}`
+#### QA Notes
+- Model accepted and responds correctly
+- Output follows required structure
+- No extra formatting
+- S07 passes successfully
+
+### S08 – Stop Generating Testcases (HW)

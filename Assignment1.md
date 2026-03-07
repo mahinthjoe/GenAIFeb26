@@ -109,8 +109,8 @@ Validated Payload Structure
       "content": "I — INSTRUCTION\nAnalyze the provided Accessibility DOM..."
     }
   ]
-}```
-
+}
+```
 #### QA Notes
 - Model accepted and responds correctly
 - Output follows required structure

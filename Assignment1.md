@@ -95,6 +95,7 @@ Key Requirements
 - Classify findings under A → AA → AAA
 - Provides WCAG_Level, Criterion, Observation, Compliance_Status, Evidence
 Validated Payload Structure
+
 `{
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "temperature": 0.1,

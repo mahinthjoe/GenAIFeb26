@@ -96,7 +96,7 @@ Key Requirements
 - Provides WCAG_Level, Criterion, Observation, Compliance_Status, Evidence
 Validated Payload Structure
 
-`{
+```{
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "temperature": 0.1,
   "messages": [
@@ -109,7 +109,8 @@ Validated Payload Structure
       "content": "I — INSTRUCTION\nAnalyze the provided Accessibility DOM..."
     }
   ]
-}`
+}```
+
 #### QA Notes
 - Model accepted and responds correctly
 - Output follows required structure

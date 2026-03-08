@@ -96,7 +96,8 @@ Key Requirements
 - Provides WCAG_Level, Criterion, Observation, Compliance_Status, Evidence
 Validated Payload Structure
 
-```{
+```json
+{
   "model": "meta-llama/llama-4-scout-17b-16e-instruct",
   "temperature": 0.1,
   "messages": [
@@ -110,7 +111,7 @@ Validated Payload Structure
     }
   ]
 }
-```
+```json
 #### QA Notes
 - Model accepted and responds correctly
 - Output follows required structure

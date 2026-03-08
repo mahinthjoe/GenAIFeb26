@@ -111,7 +111,8 @@ Validated Payload Structure
     }
   ]
 }
-```json
+```
+
 #### QA Notes
 - Model accepted and responds correctly
 - Output follows required structure

@@ -1,0 +1,17 @@
+{
+  "name": "QA GenAI Env",
+  "build": { "dockerfile": "../Dockerfile", "context": ".." },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "vscjava.vscode-java-pack",
+        "ms-playwright.playwright",
+        "postman.postman-for-vscode",
+        "GitHub.copilot"
+      ]
+    }
+  },
+  "remoteUser": "root",
+  "workspaceFolder": "/app"
+}
+

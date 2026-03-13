@@ -1,0 +1,8 @@
+Activities to complete for this week session
+
+1. VSCode Installation
+2. Co-pilot Setup
+3. Java and NodeJs Installation
+4. Register (using your email) in https://api.testleaf.com
+5..Install the postman Desktop App
+6.Create GitHub Account

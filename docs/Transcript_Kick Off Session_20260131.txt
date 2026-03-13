@@ -1,0 +1,813 @@
+0:40 : Sankar TestLeaf : As I postpone Erona.
+0:42 : Sudarshan Testleaf : What kinda Immediate.
+0:44 : Sankar TestLeaf : Bear mind that.
+0:46 : Sudarshan Testleaf : So the video on the Raja.
+0:48 : Sankar TestLeaf : Background of, yeah.
+0:54 : Sudarshan Testleaf : Super.
+1:09 : Sankar TestLeaf : Fifty down.
+1:11 : Sudarshan Testleaf : Yeah, no problem.
+1:32 : Sankar TestLeaf : I won't let you.
+1:52 : Sudarshan Testleaf : Fifty one miller.
+1:54 : Sankar TestLeaf : A fifty five.
+1:57 : Sudarshan Testleaf : And forty seven.
+4:12 : Sudarshan Testleaf : Rajan, can you hear me? Yes.
+4:16 : Thiyagarajan Seeni : Yes, how are you?
+4:18 : Sudarshan Testleaf : Yeah, doing good. How about you? Yeah.
+4:20 : Thiyagarajan Seeni : Thanks yourself.
+4:22 : Sudarshan Testleaf : Doing good. I work your weekend, also weekend yesterday.
+4:28 : Thiyagarajan Seeni : I'm from Melbourne Australia, so he's almost over now.
+4:35 : Thiyagarajan Seeni : So he's almost.
+4:36 : Sudarshan Testleaf : What is the exact time right now?
+4:37 : Thiyagarajan Seeni : Now it's Sunday eight twenty night, yeah.
+4:42 : Sudarshan Testleaf : Yes, I should say goodnight.
+4:45 : Thiyagarajan Seeni : Huh.
+4:46 : Sudarshan Testleaf : Or good evening. Okay, that would be pretty much great evening. Really appreciated that you have joined at this time. Yeah.
+4:54 : Thiyagarajan Seeni : Yeah, so only this is because it was been a bit late, it will be a bit late. So, ok, then I checked with the test delivery ok if it's three to six I can manage if it's been the course starts late in the evening it will be like too late for me to start, so yeah, that's good at least it's three to six.
+5:14 : Sudarshan Testleaf : Yeah, I've taken a good decision at the right time I have to say that because it is not too late, but yeah, I'll just analyzed that and you'll join. That's great that's great. By how many years of experience we have in the industry.
+5:26 : Thiyagarajan Seeni : I have more than twenty years, but mostly in the manual testing, so, yeah. Not in automation because mostly work on the terminals like because I work in like a casinos now like more on these, the slot machines and more on the testing. So, yeah. More on the.
+5:46 : Thiyagarajan Seeni : Hardware and software testing.
+5:48 : Sudarshan Testleaf : Let's find really. Because, even I was working on that terminals and other things with telecom.
+5:56 : Sudarshan Testleaf : This Voice's projects rating and billing system and.
+6:01 : Sudarshan Testleaf : And your NGs all the network gateways and other things. Now from that I have transformed totally.
+6:08 : Thiyagarajan Seeni : Okay, two automation or is it.
+6:10 : Sudarshan Testleaf : At that point itself I was also handling automation, web automation and I also worked on both the things both OSS as well as BSS kind of.
+6:18 : Thiyagarajan Seeni : Okay, ok. Yeah.
+6:22 : Sudarshan Testleaf : Yes, thanks Nice speaking with you.
+6:25 : Thiyagarajan Seeni : Yeah. And.
+6:26 : Sudarshan Testleaf : Guys who have joined right now Deepak Sandeep, Uja, Soma.
+6:34 : Sudarshan Testleaf : I want to see your beautiful faces, please, please turn off your turn on your videos, sorry. Turn on your videos, please.
+6:49 : Sudarshan Testleaf : So mom, and what about the and Deepak are you there.
+6:55 : Sudarshan Testleaf : Why hiding behind the campus?
+6:58 : Sudarshan Testleaf : Hey. And turn on your camera right.
+7:01 : Rama Vardhini : Yes sure.
+7:07 : Sudarshan Testleaf : What you guys, what's your yesterday? Does that went well? Is that.
+7:12 : Pooja Kirti Taneja : Well.
+7:14 : Pooja Kirti Taneja : Yeah.
+7:22 : Sudarshan Testleaf : So can wait for I think so someone is echoing, could you please mute yourself Pooja?
+7:30 : Pooja Kirti Taneja : Okay.
+7:31 : Sudarshan Testleaf : Sure the echo. Okay fine. So before people joining and getting started with the kickoff session.
+7:40 : Sudarshan Testleaf : You can introduce yourself so that when the session starts anyways I have to give my brief introduction I'll give that and you can introduce right now.
+7:49 : Sudarshan Testleaf : Just a thing, what are you doing? How many years of experience and which place from your.
+7:57 : Sudarshan Testleaf : That would be fine. A short description about you.
+8:01 : Deepak : I see that still.
+8:06 : Deepak : Currently I'm working with.
+8:09 : Deepak : As a test manager.
+8:13 : Deepak : I'll take care of the automation framework level, all that.
+8:18 : Sudarshan Testleaf : That's great. That's great.
+8:22 : Sudarshan Testleaf : That's fine.
+8:25 : Sudarshan Testleaf : Fine Deepak nice. And thanks for joining here.
+8:29 : Sudarshan Testleaf : And it's it would be a transformation for all of you from another thing to age and equal. Actually, we are welcoming you to that world, that is what I can tell. But predominantly most of you have at least touched based about A and other things, right? Or totally new.
+8:48 : Deepak : Let's using copilot and searching for our queries.
+8:54 : Sudarshan Testleaf : Thank you. So what about others team.
+8:58 : Pooja Kirti Taneja : Is totally new for me.
+9:01 : Pooja Kirti Taneja : Not use that.
+9:03 : Sudarshan Testleaf : Problem at all.
+9:05 : Thiyagarajan Seeni : Yes.
+9:06 : Sudarshan Testleaf : From the scratch. Yes yes they are doing it from the scratch.
+9:11 : Sudarshan Testleaf : We'll be breaking all the clutters which you are having in your mind about the it's what I can tell you.
+9:18 : Jahira Banu : We're looking forward to it. I am also very new here.
+9:24 : Sudarshan Testleaf : You can just turn on your camp, that would be fine, right?
+9:32 : Jahira Banu : Just to the.
+9:35 : Sudarshan Testleaf : Sorry. Is there any specific.
+9:37 : Jahira Banu : The next session.
+9:39 : Sudarshan Testleaf : Okay.
+9:40 : Jahira Banu : Yeah, I have so many unexpected guests at home, so I cannot.
+9:45 : Jahira Banu : There are many people.
+9:48 : Sudarshan Testleaf : Understood. But still when you're in the classroom you could have turned on from next class I can expect that from you, right? So.
+9:55 : Jahira Banu : Sure.
+9:57 : Sudarshan Testleaf : That's fine. Can you introduce one by one, that's what I can tell you guys. Please go ahead, Uja, Zahira, Soma.
+10:07 : Sudarshan Testleaf : Yeah.
+10:08 : Pooja Kirti Taneja : I am Pooja Taneja, I stay in Bangalore and I have seven years, seven point five years of experience and I'm currently working for as a manual tester also and as a ERP support also, yeah, currently staying in Bangalore.
+10:28 : Pooja Kirti Taneja : And, working for.
+10:32 : Pooja Kirti Taneja : Bank.
+10:33 : Sudarshan Testleaf : Okay ERP in the sense are you using any SAP SAP kind of softwares or how is that.
+10:36 : Pooja Kirti Taneja : We are using order management system.
+10:39 : Sudarshan Testleaf : Okay, ok.
+10:43 : Sudarshan Testleaf : OMS, yeah, yeah.
+10:45 : Pooja Kirti Taneja : It's.
+10:51 : Sudarshan Testleaf : Go ahead, please.
+10:53 : Jahira Banu : Jahira here, I have more than twelve years of experience with so many gaps purely into manual testing and I'm from the, currently I'm working on for one of the Australian client as a freelancer, work from home. So.
+11:15 : Jahira Banu : I learned so many things from this leaf like I started my batch from Selenium first batch and then playwright, AWS, and then I think so many classes I attended from but I did not get any opportunity to work on automation because my comfort zone is.
+11:35 : Jahira Banu : Work from home. So I take that as a comfort and my company current company is also not demanding for automation. But something I wanted to upgrade my skills in terms of EA because of the high bits given. And the last I attended the Bob's session and he told no coding so I chosen this.
+11:56 : Jahira Banu : So that I can.
+11:57 : Sudarshan Testleaf : I think exactly.
+11:58 : Jahira Banu : Actually apply whatever I learned from here. So that's the expectation I have. Something I can show the difference from my team members that I upgraded this still and I show some progress in the way I worked the regular work. So that's why I joined so let's hope so.
+12:17 : Sudarshan Testleaf : So Ashwar Zahira trust me, you'll be showing that because once after completing the phase one itself many of them projected into their organization and we had a last last batch yesterday, and today also we are having the evening. In that batch many of them build their agent of their own. So at the end of phase one and phase two.
+12:38 : Sudarshan Testleaf : You will be having a confidence Coding is not required, but we'll be telling you how to wipe code.
+12:45 : Jahira Banu : Well done.
+12:46 : S. Robert Martial : So.
+12:48 : Sudarshan Testleaf : How many of you read this article written by one of the Google CEO? If you are using AA, that is not the code which is needed, you have to give what is your intent, what is your requirement is so that A will be giving you the response according to that, that is the predominant thing.
+13:06 : Sudarshan Testleaf : Now into the world of A, we are not expecting like we should need hundred percentage coding? No, you know the intent, all things will be happening.
+13:17 : Sudarshan Testleaf : Okay.
+13:18 : Sudarshan Testleaf : Hey hi to all who have joined right now and someone has joined with the name guest. See I can't call you guest straight. Please please edit your name. You can just right click on your name and then they'll be a there will be an option to edit display name.
+13:35 : Sudarshan Testleaf : Go to the participant list. We have opened that. You can right click and then you can just edit your name.
+13:47 : Nandeesha Siddaiah : So so this is why it is displaying our name says unverified.
+13:50 : Sudarshan Testleaf : Because you have joined with the mail ID, that mail ID which you have joined, did you register in platform dot testliff dot com?
+14:01 : Rama Vardhini : Then we have these studies.
+14:03 : Sudarshan Testleaf : Are you joining with that registered mail ID?
+14:06 : Nandeesha Siddaiah : Yeah, I've joined with the same registered.
+14:09 : Sudarshan Testleaf : Shankar just take a screenshot so that we should verify why it is happening like that. Just take a screenshot, but still when it comes to Mohammed Asik, it is not displaying like that. Have you logged into the Webex with your registered mail ID? That, that is what I'm asking or you have logged in as a guest, just put your meeting link and you have joined.
+14:31 : Nandeesha Siddaiah : We have put meeting number and join.
+14:33 : Sudarshan Testleaf : That is that is the problem. We have to log into your Webex with the mail ID which you have registered, ok?
+14:38 : Nandeesha Siddaiah : Oh, ok. So.
+14:40 : Sudarshan Testleaf : So why I'm telling this point is anyways I'll reiterate when we are going into our session. Otherwise utterance will not be marked.
+14:49 : Sadhana : This one is there any option to log in from about the platform itself.
+14:54 : Sudarshan Testleaf : So Option is that from the platform. We can check with that, but.
+15:00 : Sudarshan Testleaf : But that is easy, but anyways, you have to log into your Webex, right? Webex login is with your gmail or the one which you have registered. That is why you are able to see that unverified. And now Abinay has joined, you can see that it is showing like Gmail dot com. You can see the participant list. So going forward, that is f.
+15:20 : Sudarshan Testleaf : For today, but going forward, if you are joining, please join with your mail ID, which you have registered in platform dot sleep dot com because we are doing the mapping for the attendance over there, ok?
+15:33 : Sudarshan Testleaf : Fine.
+15:38 : Sudarshan Testleaf : We can start in next two minutes, Shankar, could you please post a message in the group that.
+15:46 : Sudarshan Testleaf : Can just we can start in next two months, guys. Meanwhile, you can just turn on your videos.
+15:53 : Sudarshan Testleaf : That is the predominant one I'm asking right from the beginning, if you're not turning on your videos, please tell me the reason at least why you are not turning on.
+16:04 : Sudarshan Testleaf : The Solomota Mutunja can do.
+16:07 : Sankar TestLeaf : That's.
+16:09 : Moham : I think.
+16:09 : Sudarshan Testleaf : See, this is like kind of a one which which we are having previously they call that as a grandmaster game. You have to think of someone's name and you'll be triggering out the question and you'll based on the question, you have to identify the name. They see really it is pathetic for me. Please please turn on your videos.
+16:28 : Moham : Hi Sudashana, this is Mohan here. I couldn't turn on my camera. Actually, I am going to reach home. I just got little late, so within fifteen minutes I'll be turning on it, ok? Thank you.
+16:43 : Sudarshan Testleaf : I am telling that it's like your concentration and other things will be increased when you're turning on the videos out of our experience we are telling that.
+16:53 : Sudarshan Testleaf : Your focus will be there on the session. For that only we are telling you to turn on the videos.
+16:59 : Sharanya : Hi, Sudarshan, this is Sharinya. I'm not able to turn on the video because.
+17:06 : Sharanya : I have I'm outside right now, I'm not at right at home. So that's the not I'm not able to turn on my video.
+17:13 : Sudarshan Testleaf : Okay, I understand since this is a kickoff session that is fine, ok, but going forward from next weekend, please, please find yourself in a calm room so that you can concentrate very well. That would be pretty much fine. This is for all not only for selling you.
+17:29 : Moham : Yeah, sure.
+17:33 : Sudarshan Testleaf : That's fine, you know, they read your message, but still.
+17:37 : Sudarshan Testleaf : Trying to your possibilities next week to turn on, ok? Fine.
+17:43 : Sudarshan Testleaf : Okay guys, so another one minute.
+17:51 : Sudarshan Testleaf : So let's get started. Before that, I'll just give me an introduction about myself. So this is Sudarshan. I'll be your trainer.
+18:00 : Selvakumar : Okay.
+18:01 : Sudarshan Testleaf : Will be originated, I have sixteen plus of years experience in the industry, predominantly I started as a developer and then converted to a tester with automation, with UI, API, and then landed here with Jennai and I have adopted Jennai early and in the weekdays I work on the project. So let me just.
+18:22 : Sudarshan Testleaf : Start the recording.
+18:24 : Sudarshan Testleaf : And tell the brief one second. That's what, all of my sixteen years predominantly started as a developer, then converted to a tester, working on different tools like QTP started from QTP Serenium, and play rate, and then moved on with the APA testings along with that now, i've adopted the Generi.
+18:45 : Sudarshan Testleaf : And weekdays I'll be working on the projects. Projects. That is test leave as a sister consent called Q Eagle wherein we have people working on projects, so I lead the team, ok? And we weekends I'll be taking the training session. So I'll be your trainer on the.
+19:05 : Sudarshan Testleaf : Weekends. This is all about me with all sixteen years of experience and with my ample of experience in ai, whatever I have, I'll deliver to you always. Is that ok? Fine. Yes, no.
+19:20 : Nandeesha Siddaiah : It's.
+19:21 : Rajesh k k : This is.
+19:24 : Sangeetha : If.
+19:25 : Sudarshan Testleaf : Want you guys to reply without your reply I won't move even in this session.
+19:32 : Sudarshan Testleaf : I want this session should be interactive, not like one one way speaking I'm just speaking like that and you guys are just turning on your viewers and keeping your faces like that. That is not required. Okay, and we have fewer mentors, some of the mentors are in different session and have Shankar with me right now.
+19:52 : Sudarshan Testleaf : So Shankar is having ten plus years of experience. He's also working in Generi projects in the weekdays in Qiggle along with me and then during weekends, he'll be just supporting us in the training. Likewise we have Prabaga Satish and Smitha, three other mentors are there. They'll be joining in our next.
+20:11 : Sudarshan Testleaf : Next weekend session. So since it's a cough and they are, they are in the another session, they are unable to join, they'll be joining here and we'll be helping you in all aspects.
+20:22 : Sudarshan Testleaf : Fine?
+20:25 : Sudarshan Testleaf : Not ok.
+20:27 : Sudarshan Testleaf : Yeah, but.
+20:32 : Nandeesha Siddaiah : Yeah.
+20:32 : bhanu : Yes sir.
+20:33 : Pooja Kirti Taneja : The second.
+20:34 : Sudarshan Testleaf : Developer.
+20:35 : Shilpi Nagpal : It is.
+20:37 : Sudarshan Testleaf : And no one has turned on the videos.
+20:40 : Nandeesha Siddaiah : So this one request, can you please stop.
+20:45 : Sudarshan Testleaf : I'll be going in only in English at times I'm. I'll repeat that in English. No problem, ok?
+20:50 : Nandeesha Siddaiah : Because in the last session also I think I was keep repeating and I was asking but I think.
+20:56 : Sudarshan Testleaf : We can do it.
+20:57 : Nandeesha Siddaiah : Taken into consideration.
+20:59 : Sudarshan Testleaf : They can take that, we can take that no problem at all, ok? Fine. Fine Nandesh. So that's what guys. Okay, anyways, page two is always blurred and I can see only the black screen, no problem. So let me just show you the agenda and we can start with our kickoff session today.
+21:19 : Sudarshan Testleaf : So here today I'm just going to explain you what are the how we are just going to go with our classroom session and about our tech platform wherein we'll be having all the videos and resources and along with the course content, what we are just going to learn. So before that, before that I want to ask one question to you all guys.
+21:40 : Sudarshan Testleaf : So before joining this AA course, it's a janetic course itself. In your organization, how many of you have asked to build the agents? Like from the top level manager or your manager, build something in A They won't say anything, but saying that build something in A. Just type me.
+21:59 : Moham : Can ask for they were asking to use EAA but we don't know how to build.
+22:07 : Nandeesha Siddaiah : I've been asked to build a to do.
+22:10 : Sudarshan Testleaf : That's what I'm. I'm saying good.
+22:12 : Sudarshan Testleaf : Yes, they are, they'll be asking you to build any agents with the or do anything with the AA, but did they give you any clear cut idea.
+22:21 : Sudarshan Testleaf : Or any roadmap.
+22:24 : Jahira Banu : No.
+22:25 : Sudarshan Testleaf : So why I'm asking that is the problem happening predominantly in the industry.
+22:30 : Sudarshan Testleaf : He has boomed right now. Before three months, when most of the organization they are not even allowing the core pilot, but the course of three months, it has totally changed. They allowed copilot, they are allowing to use their llmiss, they want some productive effort with the AA, with the agents. Do you all agree with me at.
+22:51 : Sudarshan Testleaf : At that point? Do you all agree with me?
+22:53 : Sangeetha : It's.
+22:55 : Nandeesha Siddaiah : So in our organization like they are investing a lot and they're getting all license for copilot like and they're forcing everybody to use and do the commits using Journey and even their growing drill down, they're tracking every week and every month commits just to ensure what is the percentage of commits and non generic commits.
+23:14 : Stanly : That's.
+23:15 : Sudarshan Testleaf : What is happening now? Why I'm telling you like that is like now the industry has changed. So after six months, if you're learning the same course, you will be behind the people who have already known.
+23:29 : Stanly : Hey.
+23:31 : Sudarshan Testleaf : Well I already know the AA will be behind those people, but this is the right time for you. Okay, this is the right time for you to learn.
+23:39 : Sudarshan Testleaf : The AA. So may I know is this the first session we are starting with the kickoff gonna from next weekend, we'll be starting with the first session. Fine.
+23:50 : Gunasundari : Thank you.
+23:51 : Sudarshan Testleaf : Before going to that, I'll just walk through the tech platform that is our platform dot com. Before that, can you tell me if people who are non aluminus, that is who are first time joining the course in test leave. Can you just type me.
+24:07 : Moham : Myself Mohans yes, first time.
+24:09 : Sudarshan Testleaf : Okay, ok.
+24:11 : Sangeetha : It's me saying.
+24:13 : S. Robert Martial : Session this is Robert yes this is first time from me.
+24:18 : Gunasundari : The first and foremost.
+24:21 : Sudarshan Testleaf : Okay, fine.
+24:23 : Shilpi Nagpal : First time for me.
+24:25 : Sudarshan Testleaf : So.
+24:26 : Satish : Sebastian.
+24:27 : Sudarshan Testleaf : They're Coming all Both non aluminus as well as aluminus, first of all, you are welcoming from our test leafing, ok? That is a predominant thing and moreover, one more thing I want to tell to you all, just give self close to yourself. The reason is paying money that is ok fine, but still you are investing your time.
+24:47 : Sudarshan Testleaf : During your weekends. Do you all agree with me? Investing the time during the weekends? Just give self kudos clapping. Just clapped.
+24:57 : Sudarshan Testleaf : Seriously I'm telling you, that is predominantly that's a great thing if you if you ask me, I'm doing that is my propertion and that's my passion I'm doing but still you guys are learning and you're spending your time. So please, please attend all the session, those the first request I'm just giving to you all. Please please attend all the session.
+25:17 : Sudarshan Testleaf : And you will be just transforming in your journey. That is for sure. We'll be just from be giving a hundred percentage you can see the two hundred percentage will be given and then you can transform yourself.
+25:32 : Sudarshan Testleaf : So, so, for the people.
+25:36 : Sudarshan Testleaf : Testing this in our testing that we have a.
+25:39 : Saranyan : Yeah, we have a.
+25:42 : Sudarshan Testleaf : Guys, could you please mute yourself? Thanks for that. In test leaf, we have built on a tech platform. When you go to the set tech platform, ok, we have.
+25:57 : Sudarshan Testleaf : The resources your session videos, all those things will be available here. Have you all registered here? Have you all registered in the platform yet? Have you all.
+26:08 : Shilpi Nagpal : If.
+26:11 : Pooja Kirti Taneja : If you.
+26:12 : Sudarshan Testleaf : That's.
+26:13 : Sudarshan Testleaf : What you have to do is you have enrolled with your mail ID, right? You have enrolled with your main ID. So register with your enrolled main ID. First thing is, if not registered.
+26:29 : Sudarshan Testleaf : Register.
+26:30 : Vinod : Thank you.
+26:33 : Sudarshan Testleaf : Enrolled email ID for which you have enrolled the course, that email ID, you have to register. Once after registration.
+26:42 : Vinod : Okay, so.
+26:42 : Sudarshan Testleaf : Once you're going to this particular link, you'll be having the sign up button, you can register that. Once after registration.
+26:49 : Sudarshan Testleaf : Can just log into your.
+27:05 : Priya Rajendran : Let's.
+27:09 : Sudarshan Testleaf : Here in our tech platform, we have built in such a way that all the resources, your classroom session videos, your classroom session notes, all those things will be available here.
+27:19 : Sudarshan Testleaf : So when you just click on this option at the top left, you can see the menus here. My live courses and other things are there. Can you all see the menus here? Yes or no.
+27:30 : Nandeesha Siddaiah : Yeah.
+27:33 : Sudarshan Testleaf : So just to go and click on expand on that. Anyways I'll share you all these details and Shankar just make a note of it. Dinesh is not added in WhatsApp group. So Dinesh can just.
+27:46 : Sankar TestLeaf : Awesome.
+27:48 : Sudarshan Testleaf : Connect once with Sanjay, ok? Whomsoever is not added on the WhatsApp group, please note their names Shankar. Dinesh Karthik, you can place Balaji, you can just please note their names. We'll be just starting them.
+28:02 : Lakshmi N  : Me, Lakshmi has not been added to the.
+28:04 : Sudarshan Testleaf : So what I can tell you is, you guys can just connect with Sanjay, I think so you all know Sanjay, once after the session, please connect with Sanjay. He'll be adding you in the group, ok? I'll send the link. I'll send the link guys, please wait. So here in the my life courses, you'll be having all these options here. First.
+28:25 : Sudarshan Testleaf : First if you want to watch all the recordings, once you have registered, just click on the video, your particular course will be displayed here. So since I have I have access to multiple course, I have it here, your particular course will be displayed here. You can just click on the video and then you can watch it. So when the.
+28:45 : Sudarshan Testleaf : Recording will be uploaded.
+28:48 : Sudarshan Testleaf : The session is done, ok, within one hour, two hours, recordings will be uploaded to your tech platform. At the max to max one hour, it will be uploaded if any difficulties are there will be upload that in, will be uploading that within two hours. So that will be uploaded. That is point number one.
+29:08 : Sudarshan Testleaf : Point number two, you have another option or menu here called session. Can you all see this? Can you all see this? Yes.
+29:18 : Sudarshan Testleaf : The session lavander will be having all the resources, all the notes and resources will be available in the session. If you're going inside this, you can have the reference documents, home assignments, all these things will be available.
+29:34 : Sudarshan Testleaf : Of now that interview question and other things will not be available for Jane but all the reference documents and home assignments will be available. So you can refer these two, two things here, and one more thing, one more thing is the reason for telling you to log in with the Webex, with the registered mail IDs your attendance here will be marked here.
+29:56 : Sudarshan Testleaf : Here we have the utterance here in green color. So if at all, let me just take one of the other course.
+30:03 : Sudarshan Testleaf : We all see the difference here, but what it is showing, it is marked in red saying that I haven't attended the class. So major problem where we'll be getting with the attendance is into the Webex, into the Webex, if you are not attending the session with your registered mail ID, you'll be getting this problem. So.
+30:23 : Sudarshan Testleaf : Have to log into Webex with the registered mail id.
+30:31 : Sudarshan Testleaf : Log into Webex with.
+30:36 : Sudarshan Testleaf : Registered the ID.
+30:39 : Vinod : If.
+30:40 : Sudarshan Testleaf : All if you are facing issues with the attendance, you can ping to us in the group or you can ping to us one on one, we'll be just taking care of that. This is all with your tech platform. And when it comes to the support system, yes, I can see some of you guys are putting the chat like if you are unable to see the course that is not add.
+31:01 : Sudarshan Testleaf : So for that also, the point of contact is Sanjay. Could you please contact him.
+31:07 : Sudarshan Testleaf : Okay, you can contact him and that that would be done. Fine.
+31:16 : Sudarshan Testleaf : Is that ok Dinesh Freddi and people who are not added in group or not added in the course list? You can just connect with Sanjay once. Is that fine? Yes, no. Okay.
+31:26 : Sabarish Sampathkumar : Yes.
+31:28 : S. Robert Martial : No, I'm.
+31:29 : Sudarshan Testleaf : We might.
+31:30 : Sharanya : Hi Sudashan.
+31:32 : Sudarshan Testleaf : This is.
+31:33 : Sudarshan Testleaf : Please tell me?
+31:34 : Sharanya : My suggestion. Yeah, I just logged into the platform and then from there I opened the Webex, but still it's showing unverified. So.
+31:46 : Sudarshan Testleaf : Okay, ok, we'll just make a note of it.
+31:49 : Sudarshan Testleaf : Could you please tell your name, please? I couldn't get you and.
+31:54 : Sudarshan Testleaf : Okay, Shankar make a note of it Sharinia, please note her name, how to connect with Sanjay Sanjay is Sanjay is the person who has just connected with you for fees payment and other things, right?
+32:09 : Sudarshan Testleaf : Or Shankar just that that that you can just connect with him.
+32:15 : Sudarshan Testleaf : Will also tell him that some of you are not getting any of the process added. I will also inform after the session you can connect with them so that he'll be taking the action, ok?
+32:26 : Sadhana : So there's a can you show me like how we can join from a portal, from portal directly, how we can join to Webex?
+32:34 : Sudarshan Testleaf : Yeah. As of now, even for me that connectivity is not done. So.
+32:40 : Sudarshan Testleaf : That is done, I can show you as of now join with your Webex registered this one, ok?
+32:45 : Sadhana : Yes.
+32:50 : Sudarshan Testleaf : Can I give some numbers? Shankar, you can just post your, your number and Sanjay Sanjay's number here in the chat so that people can refer. Yeah, fine. Okay. Next thing is predominantly our support system. Let me complete this and then you can ask your queries. So how the support system will be? We'll.
+33:09 : Sudarshan Testleaf : We dividing you into subgroups, whomsoever members are there will be dividing you into subgroups and your subgroups will be having.
+33:19 : Sudarshan Testleaf : So mentors, all the mentors will be present, but there will be a lead mentor for subgroup. So you can post your queries in the subgroup or in the main group so that we'll be just helping you to resolve at the earliest. So this is with respect to WhatsApp. So next thing is, hey, are you just giving only the WhatsApp support.
+33:40 : Sudarshan Testleaf : There is no, we will be extending our support on weekdays, ok? During the weekdays also apart from our weekends session, if you are having any queries, you can very well reach out to us in the WhatsApp so that in the, in the group if you are putting your queries, we'll be just helping you to resolve. Weekdays also the support will be.
+34:00 : Sudarshan Testleaf : Extended. And one more thing, in additional to weekday support, we'll be having a doubt clarification session.
+34:08 : Sudarshan Testleaf : Say for example, we have thought some topics at that point, at that point, if you can't understand, if you are working out and if you can't understand, you are, you are ok to ask with the mentors, that is fine, but still what will be doing on the weekdays will be having doubt clarification session on two days.
+34:28 : Sudarshan Testleaf : We'll be posting those two days. That would be either Tuesday, Wednesday or Wednesday Thursday. We'll be having that for.
+34:36 : Sudarshan Testleaf : One hour to one and a half hours, one to one and a half hours, we'll be having that session. Apart from all these subgroups weekday support, we'll be having the doubt clarification session so you can join the session, you can clarify your doubt and you can just move on with that. Point?
+34:54 : Sudarshan Testleaf : This is all about your support system. And one more thing with the classroom requirement what I'm just going to tell is let me complete this thing alone. Classroom requirement now. First and prodo most predominant thing you should be on videos.
+35:11 : Sudarshan Testleaf : Please be on videos.
+35:16 : Sudarshan Testleaf : Videos. Second one is, please take the hand written notes.
+35:25 : Sudarshan Testleaf : That would be pretty much useful for you guys. Please take the handwritten notes, ok? And then apart from that, apart from that, we'll be having the.
+35:38 : Sudarshan Testleaf : Session that is classroom sessions, which will be a practical session. So for this practical session also.
+35:48 : Sudarshan Testleaf : Having different breakouts. Breakouts are nothing but we'll be just dividing to four mentor support groups in which you can join any one of the groups, four or five mentor support group, you can join to any one of the group. Say for example, if we are fifty members are there, what you will do will be just creating some.
+36:08 : Sudarshan Testleaf : Groups or we call that as a breakout session. So in each session, every mentor will be there. You can join with any one of the mentor that is free to you to join. Free for you to join, you can join with any of the mentors in those breakout session and you can proceed with your classroom session. That is for your practical.
+36:27 : Sudarshan Testleaf : Kind of stuff. And next thing is once after your practical session and class classroom is done, we'll be just giving you the home assignment.
+36:40 : Sudarshan Testleaf : So you can just complete that home assignment and you can push that to the Git or you can just upload to the Git.
+36:50 : Sudarshan Testleaf : And send the GitHub link. We'll be just maintaining a Google sheet. You can send those GitHub link to us so that what we'll be doing with your assignment is we'll be just reviewing the assignment and giving you the improvements or enhancements that can be done. If it is all ok, you'll be appreciated for that. So this is.
+37:10 : Sudarshan Testleaf : All the requirements we needed for the classroom session. And one more thing, one more thing is.
+37:18 : Sudarshan Testleaf : To be frank, it's all your presence. Please don't make yourself absent for the session. If you're there in the session, you can just learn a lot and you can implement the same easily. So these are the requirements before going to the.
+37:36 : Sudarshan Testleaf : The one which you are going to implement in phase one and phase two, if you have any queries you can ask me guys. And here we have Cindy Sanjay's contact. You can just copy the contact of Sanjay and keep it with you, ok?
+37:51 : Nandeesha Siddaiah : And with this, right? Is it only like we need to post our question through WhatsApp group or can we directly connect to one on one if you face any issues.
+38:02 : Nandeesha Siddaiah : Execution of the project.
+38:04 : Sudarshan Testleaf : Why asking you to post in the WhatsApp group is say for example, if some mentor is busy, ok? We have five mentors there, right? Anyone can easily answer from that group. So your query will be getting resolved at the earliest. Anyways if you are inging us to to us also, we'll be answering you. If at all, any other task or any other thing.
+38:25 : Sudarshan Testleaf : We don't want to miss that. So we are just asking you to post in the WhatsApp group, ok?
+38:31 : Nandeesha Siddaiah : Okay ok for for any troubleshooting thing in case we have given some assignment and we are working on that assignment, we got stuck and we want to do some kind of screen sharing or troubleshoot.
+38:42 : Sudarshan Testleaf : At that point you can At that point if you're saying that you have just got stuck if you want to screen share, you can post the same in the WhatsApp group, one of us will be connecting with you. One on one you can screen share and you can proceed, ok?
+38:56 : Nandeesha Siddaiah : Okay, sure. Thanks.
+38:58 : Sudarshan Testleaf : Point. Okay fine.
+39:01 : Sudarshan Testleaf : And one more thing is like as Rajaram told, that is the predominant thing. If you're posting that in the WhatsApp, that would be a learning for others. If one at one point, if we, if we are giving the solution, many people would have faced the same error. At that point, they will also get the solution. So that is the predominant thing or if others face the same other.
+39:22 : Sudarshan Testleaf : And if they want to post the answer to you, they can also post that in the WhatsApp. It is not only like mental should answer. It's all our learning phase and learning curve, right? All can answer. Fine? Got it?
+39:35 : Nandeesha Siddaiah : Got it. Thank you. Okay.
+39:38 : Sudarshan Testleaf : Now that you can just go up you have raised your hand.
+39:41 : Nagarajan  K : Yes, thank you, thank you. See, in the WhatsApp group also suppose the follow up to the earlier question, so do we have any SLA for for the mentors to connect.
+39:54 : Sudarshan Testleaf : We'll be just answering you within half an hour to forty five minutes. If not, once after added in the WhatsApp group, you can just ping to me, ok?
+40:04 : Nagarajan  K : Sure. And do we have, see, just, just we are going to split out our teams and do we have any dedicated mentors or the mentors will be a kind of round robin? Yeah.
+40:15 : Sudarshan Testleaf : That meant as five subgroups will be there or five subgroups you will be having five mentors.
+40:21 : Sudarshan Testleaf : Though five mentor.
+40:22 : Nagarajan  K : And they have.
+40:23 : Sudarshan Testleaf : That's what though dedicated mentors are there, all the mentors will be available in the group.
+40:29 : Nagarajan  K : Okay, ok. I'll.
+40:30 : Sudarshan Testleaf : Your dedicated mentors or if at all that mentor is not available, any one of us will be supporting you, ok?
+40:37 : Nagarajan  K : And I have one more question shall I?
+40:44 : Sudarshan Testleaf : That's.
+40:44 : Nagarajan  K : And the Git reviews is there, right? The git reviews also the dedicated mentor will do or how that will be because to to track the closed relationship, that's what I'm more curious about that area. The.
+40:55 : Sudarshan Testleaf : Yes about.
+40:58 : Sudarshan Testleaf : Yes it will be done by the dedicated mentors. Okay.
+41:01 : Nagarajan  K : Thank you. Thank you.
+41:08 : Rajesh Katyal : I have one question.
+41:11 : Rajesh Katyal : So apart from test leave assignments, let's say if I am stuck in any of my personal assignment or let's say my office work, so can I get help on that.
+41:24 : Sudarshan Testleaf : For sure we are ready to help you. If at all if you have any problem with your implementation or your office work, you can just reach us.
+41:31 : Rajesh Katyal : Yep, thank you.
+41:34 : Sudarshan Testleaf : Data right whatever you're learning here that is not only going to restrict with your assignment, you're just going to implement in your office, right? For that if you have if you need any help we'll be helping you. No problem at all. Okay Rajesh, fine.
+41:48 : Sudarshan Testleaf : Excellent.
+41:49 : Vidhya M : Should be approach.
+41:52 : Vidhya M : So apart from the test leaf assignments, so is it the same mentor or how should we approach the.
+41:58 : Sudarshan Testleaf : So you can post in the group or you can ask to your mentor so that based on which if if at all mentors, if you if you're not able to get any, what to say replaced mostly we'll be replying that within ten three thirty to forty five minutes. You can just reach out to me. Okay. Okay.
+42:19 : Sudarshan Testleaf : Sure fine.
+42:24 : Sudarshan Testleaf : Fine guys, so far so good. Okay, not ok. Anything else? Ask.
+42:30 : Stanly : And the last timing it's, sorry, yeah.
+42:33 : Sudarshan Testleaf : It's from three to six IST. We might extend fifteen or twenty minutes. Yeah ok.
+42:40 : Sudarshan Testleaf : Or half an.
+42:42 : Ramyashree M : Completes add us to the WhatsApp group. I think I've not been added yet.
+42:47 : Sudarshan Testleaf : Yeah, yeah, yeah, Rameea see that's what we are speaking here. We have just sent you one number Sanjay's number, you can just connect with Sanjay or else what we will do is at the end of the session also because we have the messages that is popping out. End of the session also we'll send the Sanjay's number. So Shankar has sent that proactively, that is fine. You can just make a note of.
+43:08 : Sudarshan Testleaf : And then you can just connect with it, ok?
+43:12 : Pooja Kirti Taneja : What would be the doubt clearing session, what time what will be the timing for that in the week this.
+43:18 : Sudarshan Testleaf : That would be in the evening.
+43:21 : Pooja Kirti Taneja : Good evening.
+43:23 : Sudarshan Testleaf : We'll be fixing the diamond telling you that would be in the evening. From five to seven, we'll be having any one hour or one and a half hours between five to seven IST.
+43:38 : Shilpi Nagpal : So Approx how many projects like we are going to work?
+43:42 : Sudarshan Testleaf : That is there on the way, the suite. I'll show you, I'll just show you the demo.
+43:54 : Sudarshan Testleaf : Yes.
+43:55 : Magesh : Disposition my issue.
+43:57 : Sudarshan Testleaf : Please. Yeah.
+44:00 : Magesh : Yesterday Bobby's not told that.
+44:05 : Magesh : Will be shared and also one of the plugin of.
+44:09 : Magesh : Yeah, yeah, extension. So how can we get that?
+44:15 : Sudarshan Testleaf : During week three we'll be learning about that. I'll tell you that, ok?
+44:21 : Sudarshan Testleaf : But regarding that recorded session which you're telling, you can just tell me what, what, what that is exactly told so that I can just ask him what is that recorded session, but about the projects what you asked right now will be seeing AA extension will be seeing that that is one of the project. I'll show you the demo, ok? Thank you. It's on the way Syria.
+44:41 : Sudarshan Testleaf : Fine.
+44:44 : Sudarshan Testleaf : Okay.
+44:45 : Sangeetha : And also suggestion like you mentioned to all the classes will be available as a recorded videos.
+44:53 : Sangeetha : So how long we can access that for only this course time or it is a li.
+44:57 : Sudarshan Testleaf : Came from lifelong access, lifetime access.
+45:01 : Sangeetha : Okay, thank you.
+45:03 : Sudarshan Testleaf : You're not restricting only with this course. Lifetime access. You can just take those access. Fine. Okay. Okay.
+45:12 : S. Robert Martial : I have one question. This is what actually for this course, any pre requests are required like you should know something like that or because I have not worked on so far, I'm completely on the manual testing, so I want to know.
+45:26 : Sudarshan Testleaf : So not that much prerequisite is required. Okay, so you're from testing this particular course is predominantly for the testers.
+45:36 : Sudarshan Testleaf : Okay.
+45:38 : S. Robert Martial : Okay.
+45:40 : Sudarshan Testleaf : A six of automation, if you're ok with that, that is fine. That's it. Not that much thing because we are, we'll be seeing different agents, we are not focusing only on the automation. There's just predominantly focused on testing, ok?
+45:54 : Sudarshan Testleaf : What about softwares and license? All softwares and license which you are going to practice will be free.
+46:01 : Sudarshan Testleaf : Okay.
+46:04 : S. Robert Martial : Because I I am completely new to this AAA because I don't know what these agents, what is, whatever the language you're speaking bit new to me. That's what I want to know like is it.
+46:14 : Sudarshan Testleaf : No problem at all. Okay.
+46:16 : S. Robert Martial : Okay. Okay Sudashan, thanks.
+46:21 : Sudarshan Testleaf : Due to time if not.
+46:26 : Stanly : Better to use the personal laptop, right? Like instead of.
+46:29 : Sudarshan Testleaf : It's ok to use your better to use your personal life laptop that would be fine because it is common for all process right? At times your office laptop, they might restrict.
+46:39 : Stanly : What restrictions are there yes, yeah. Okay. Thanks. See.
+46:43 : Sudarshan Testleaf : That is your choice. If you want the full thing to be.
+46:47 : Sudarshan Testleaf : Installed and proceed further, you can use your personal or else you can get the permission. So many of our learners got the permission from the office and they have just installed it.
+46:57 : Sudarshan Testleaf : Fine.
+46:58 : Stanly : Sure.
+46:58 : Sudarshan Testleaf : It's too. If video is not available, how we are tracking the attendance. I couldn't get your question. Could, could you please reframe it or could you please voice out and tell me Maria?
+47:09 : Maria : The thing is like since we are not based out of India, we are at other countries, so due to the timings that are during the live sessions or something, right? So once they go to the recordings then how the attendance can be tracked and.
+47:25 : Sudarshan Testleaf : So that would be marked as absence only absent only, right? They are tracking the alternates only for the this one live sessions. Whether you are present or not is for live session only, ok?
+47:40 : Nandeesha Siddaiah : All right.
+47:40 : Sudarshan Testleaf : No problem at all Maria, you can just go through the recordings and you can just come back. We will be helping you if at all since you are in the different time zone, ask you to attend the session if at all because of some reason if you're not able to attend, no problem. We'll be helping you, ok? Because.
+47:58 : Sudarshan Testleaf : Very batch we have learners from different time zone. We are managing that clearly, ok?
+48:04 : Maria : Thank you.
+48:04 : Nandeesha Siddaiah : So listen a follow up question in case due to some reasons if you're not able to attend, so will there be any kind of compensation class.
+48:13 : Sudarshan Testleaf : What I'm.
+48:13 : Nandeesha Siddaiah : The people.
+48:14 : Sudarshan Testleaf : But all if you are not able to attend, you can just go through the recordings, you can ask us during the weekdays your queries during the weekend weekdays and we are having the doubt clarification session for one, two and a hours per day, two days, at least three hours or two hours. So this this is fine for you right Nandesh.
+48:34 : Nandeesha Siddaiah : Should be. I'm just asking a group.
+48:36 : Sudarshan Testleaf : This is this is the one which you're following.
+48:39 : Sudarshan Testleaf : Can go through the record. Thing is like we didn't start the session itself, we are going to go start from next week and before that itself I'm not going to attend the classes.
+48:50 : Sudarshan Testleaf : We plan kind of stuff, right?
+48:53 : Nandeesha Siddaiah : Sometimes some unexpected things.
+48:55 : Sudarshan Testleaf : Yeah, I agree totally agree I was just kidding totally agree with you if what all some unexpected things that is fine. But as I told you before, please attend all the session. If it is unavoidable reason, just go through the recordings and come back with us, ok?
+49:12 : Thiyagarajan Seeni : That's the testers and we'll check for all the options edge cases everything.
+49:18 : Sudarshan Testleaf : Agreed I agreed.
+49:22 : Sudarshan Testleaf : The cases including edge cases also Fine.
+49:24 : Sugapriya M : Yeah, i agree. So, so I have another question. So I know this group is like kind of mix and match of different people with different tenure and their expectations within the batch would be like if it is a just two or three years tenured people there, they are like a level of.
+49:45 : Sugapriya M : Knowledge to be gained will be different people with ten years plus experience different level of knowledge to crack the interviews, right? So how are you to manage the group with this tenure and how it would benefit everyone of us here? So.
+50:02 : Sudarshan Testleaf : First of all, when it comes to, we are not going with the generic part. We are just going to teach the testing part for jenny. That is why you all have enrolled for that. So all these things what we are going to do here is would be a bread and butter with your testing. That is applicable for all the tenures like three years also that would be applicable, twenty.
+50:22 : Sudarshan Testleaf : Years also that would be applicable. Say for example, I'm asking you one thing. When you're going for just one question, if you're having user stories in your Jira and your ado, first thing what you'll be doing from the user stories, you'll be writing the test cases. That is what the process you are following, right? That can be a ten years that even even manages, ok. Managed they.
+50:43 : Sudarshan Testleaf : They will be managing the team, but still that is the process that is followed, right? Yes or no.
+50:47 : Sugapriya M : Yes yes. So.
+50:50 : Sudarshan Testleaf : Being a three year or being a fight fire three to ten years or three to eight years, I'm just going to develop the agent so that that agent is going to give me the test cases directly from the user stories. Okay, for developing this agent manager with fifteen or.
+51:10 : Sudarshan Testleaf : Eighteen years of experience, they should know what we have to implement and how we have to implement. Do you agree with me?
+51:16 : Sugapriya M : It's.
+51:17 : Sudarshan Testleaf : If at all, if they are assigning the task, first they have to work. That is how we have started our testing, right? Right from the beginning. So we'll be having all those things here. So no problem at all. Fine.
+51:30 : Sugapriya M : It Depends message.
+51:31 : Sudarshan Testleaf : So guys, let me move on with the next one. Okay, I'm just going to.
+51:39 : Sudarshan Testleaf : Walk through with the things what you'll be learning in phase one and phase two. So people are told like A foundation is your phase one and, another one is phase two, right? Yes, no, when we have, when you talk to our sales team, they would have told you phase one.
+51:55 : Soumya Ranjan Nayak : Yes.
+51:55 : Sudarshan Testleaf : Is to.
+51:58 : Ramya N : So.
+51:59 : Sudarshan Testleaf : Phase one that starts with your AA foundations. Like we can say that it's your AA foundation. I'll elaborately give you the things. So.
+52:08 : Sudarshan Testleaf : Number of days you can say that it's a one month course, ok? One month on weekends. So all weekends. So you can say that how many days it will be around eight days. Eight days you are going to spend how many hours, three hours.
+52:29 : Sudarshan Testleaf : This would be your phase one. Here you will be learning all the basics, starting from the beginning, how, what to cellulum, how the LLM works. So how many of you previously would have taught or now having your mind like charge PT is the H or charge GPT is the LLM, just type me b.
+52:48 : Sudarshan Testleaf : Be please be frank. Charge GPT or any of the charge agent like copilot, like coding agent, that is the LLM. How many of you have that in your mind?
+52:58 : Sudarshan Testleaf : Just type me, no problem at all. Type me.
+53:09 : Sudarshan Testleaf : Fine. So that thing would be breaken broken first here, that clutter would be broken first here. Okay, even not only you guys who have typed frankly, that is fine. If you have that in your mind, no problem at all. Thing is even from the previous batches when people join.
+53:29 : Sudarshan Testleaf : They know like charge APT is the charge ept is the llino. But the things are different. So you will be learning that in the phase one. I'll show you the entire curriculum so that I can walk through to what are the things that are here, ok?
+53:47 : Nandeesha Siddaiah : So that's it's only on Sundays or Saturday and Sunday.
+53:50 : Sudarshan Testleaf : Five days and Sundays.
+53:54 : Nandeesha Siddaiah : Yes.
+53:55 : Sudarshan Testleaf : Okay, eight days, six hours.
+54:01 : Sudarshan Testleaf : Three hours per day, ok? I'll mention that.
+54:06 : Sudarshan Testleaf : Good testing catch one second.
+54:13 : Sudarshan Testleaf : Side in Sunday. Fine. So we are going with the curriculum first you will be learning the fundamentals of journey that is will be giving a brief introduction on how the AAAS evolved, what is ML, what is deep learning? Because if you are knowing those concepts, then only you can just learn what.
+54:33 : Sudarshan Testleaf : How the LLM have been coming to evaluation. So how many of you have think are thinking like AA is just evolving right now?
+54:41 : Sudarshan Testleaf : Just type me, A and I just in twenty twenty one or twenty twenty six it is evolving. Is that so.
+54:51 : Sudarshan Testleaf : Pain.
+54:52 : Mohan : Started ten years back, right?
+54:55 : Sudarshan Testleaf : In Yoursella.
+54:57 : Mohan : Feels good.
+54:58 : Sudarshan Testleaf : I think.
+54:59 : Rajaram Chelladurai : It is.
+55:00 : Sudarshan Testleaf : Nineteen fifty, three fifty fourteen.
+55:06 : Sudarshan Testleaf : Started so much earlier.
+55:10 : Sudarshan Testleaf : But in different streams and we'll be learning that. That is when you're going with your, that is not only restricted to one stream like development or software or testing, it is applicable in all fields. We'll be seeing that. And then we'll be learning about each and every model's architecture char.
+55:30 : Sudarshan Testleaf : If it is not only the model, you'll be learning about mean to say charge EPD say agent, how it is internally calling different models llmiss and other things you'll be learning those architecture in week two. And week three is prompting. This is the predominant one with which you can just get well versed. Recently from last batch also.
+55:51 : Sudarshan Testleaf : The prompting itself, they are just, they have just made a report, beautiful report. They have created an app generating the report. How many of you facing issues with your daily status report, just type me. Taking one hours or two hours or at least minimum of forty five, forty five minutes killing our time. So.
+56:12 : Sudarshan Testleaf : Though we won't learn that here, but I'm telling you, that is the actual experience from us, last batch during Jan, we have just completed the phase one. One of our learner, what she did is like she has just created an app, ok? To generate the daily status report on.
+56:32 : Sudarshan Testleaf : The template which is required. So that she told like I have learned the prompt efficiently. So what is prompt from that you will be starting. Just asking charge APT like, say for example, let's go to charge APT. So, what we'll ask like.
+56:53 : Sudarshan Testleaf : Let's say generator.
+56:56 : Sudarshan Testleaf : Selenium code for a login page or you give the dominant. So the input which you give is prompt, but you will be learning efficiently how to prompt and how to get the expected output from the charge EPT or any of the chart agent first. So.
+57:17 : Sudarshan Testleaf : We'll be just training you on different techniques and different types of prompting. That learning will be much for you, ok? That will be doing in your week three.
+57:28 : Sudarshan Testleaf : Prompting and you will also be learning about the APs in LLM. So that is the that's where the magic is happening. When you are just giving this prompt to your charge ABT, what we are thinking is charge APT is giving you the output, but internally there are APA calls and other things and other process are happening. So we'll be.
+57:48 : Sudarshan Testleaf : Learning about those things in week three. And coming back to week four coming back to week four will be learning two projects, two real time project. So this would be your week three and in the week four you'll be learning your real time project. So now.
+58:09 : Sudarshan Testleaf : I want a question from you guys. How many of you felt bored or how many of you are spending more time in writing the test cases or deriving the manual test cases? You and your team, I'm saying you not yourself, if you're leading a team, you and your team. How many of you are feeling that.
+58:33 : Sudarshan Testleaf : Okay, approximator, let's say a medium level user story you want to write the test cases approximately how much time it takes based on the complexity in the solution the complexities medium. I'm saying that that complexity is medium.
+58:53 : Sudarshan Testleaf : How much time it takes?
+58:57 : Sudarshan Testleaf : Core pilot is not a best practice. We'll be seeing that later, ok? I'll tell you that. So two was. So what if, if I'm just getting the sixty percentage, at least sixty to sixty five percentage of test cases, ok? In the expected format, how much time it.
+59:16 : Sudarshan Testleaf : It would be taking for me to refine or half now refine my refinement for review and refinement to add the extra test cases.
+59:25 : Sudarshan Testleaf : So at that point, can we be able to save that one and a half hours? If that is one and a half hours with one resource, how many resources are there? All those things are calculated in your roy, right? Yes, so no.
+59:39 : Nandeesha Siddaiah : Yes yes. Yeah.
+59:42 : Sudarshan Testleaf : That's pretty good. Okay, so let's see one of the agent which you are going to learn during your week four of your phase one.
+59:53 : Sudarshan Testleaf : Let me share the screen.
+59:57 : Sudarshan Testleaf : Okay.
+59:59 : Sudarshan Testleaf : So let's say, let me take, this is your.
+1:00:07 : Sudarshan Testleaf : I'm going to give the user story title and acceptance criteria. It is going to give me the test cases, ok?
+1:00:17 : Sudarshan Testleaf : Let me just go. This is my Jira.
+1:00:20 : Sudarshan Testleaf : I have that as a simpler one. Let's see what's imple first.
+1:00:38 : Sudarshan Testleaf : You want view clear up. I'm giving the story title and acceptance criteria.
+1:00:46 : Sudarshan Testleaf : I'm just going to generate.
+1:00:54 : Sudarshan Testleaf : See here.
+1:00:56 : Sudarshan Testleaf : Can you all see here? I will just mention to generate only ten test cases cannot test cases, it has generated only ten not test cases with the edge functional non functional or whatever thing is required. How much time it took.
+1:01:10 : Sudarshan Testleaf : How much time it took you guys tell me?
+1:01:13 : Nandeesha Siddaiah : Less than a minute.
+1:01:16 : Sudarshan Testleaf : So less than a minute, I'm able to get at least sixty to sixty five percentage according to my.
+1:01:24 : Sudarshan Testleaf : Acceptance criteria and what is that your.
+1:01:28 : Sudarshan Testleaf : Your summary. What if I'm able to connect to Jira or ADO and fetch the user stories and generate the test cases, whether that would be a good or not, good idea, bad idea.
+1:01:41 : Nandeesha Siddaiah : It's a good day, we'll get more.
+1:01:45 : Archana : So.
+1:01:46 : Archana : To check whether the same scenario already exists and it will just create only new ones.
+1:01:54 : Sudarshan Testleaf : In this this particular phase one that won't checks that. Phase two will be learning while explaining phase two, I'll be showing one of the app that will be checking all those things, ok?
+1:02:05 : Sudarshan Testleaf : Right.
+1:02:12 : Sudarshan Testleaf : This will be giving you the test cases from ae. If I'm going with Jira, it will also give from the A, ok? That's what I told you, we'll be getting around sixty to sixty five percentage. So what if.
+1:02:24 : Sudarshan Testleaf : Here I add in functionality for download here, Excel the download one now I'm just going to download the same in Excel and you can see my downloads. This one I'm giving the user story title if you want, you can change that.
+1:02:40 : Sudarshan Testleaf : Download.
+1:02:42 : Sudarshan Testleaf : This just just please hold on. Let me complete this. It gives you all the things which is needed.
+1:02:52 : Sudarshan Testleaf : So we'll be learning about this in your phase one and we'll be giving you this project, ok? If you want to add any enhancement, we'll be teaching you how to add enhancement also.
+1:03:06 : Sudarshan Testleaf : You can just go and give it into your organization with that said, that will be your starting point of your development. Is that making sense? Yes, no.
+1:03:19 : Nandeesha Siddaiah : Let's see.
+1:03:20 : S. Robert Martial : Yes.
+1:03:21 : Sabarish Sampathkumar : It's.
+1:03:21 : Rajalakshmi : Yes.
+1:03:23 : S. Robert Martial : Question this is an app you are generated? Yes. Yes.
+1:03:28 : Sudarshan Testleaf : With the LLM, it is with the LLM, ok.
+1:03:33 : S. Robert Martial : This need to be integrated with the Jira, so from Jira it can be able to fetch or something like that?
+1:03:39 : Sudarshan Testleaf : Learn that yes, we'll be integrating that with Jira and it will be fetching you the user stories. If you want, you can go and extend to also. If you have a spec only in PDF for word or Excel it will work. What spec I couldn't get you?
+1:03:55 : Sudarshan Testleaf : Okay, speculations.
+1:03:59 : Sudarshan Testleaf : Can speak.
+1:04:03 : Vignesh : Hello.
+1:04:04 : Sudarshan Testleaf : Requirements.
+1:04:05 : Sudarshan Testleaf : One second, one second, please, please, please requirement specification document, see if that is the case, we can also have an upload option and you can build. That's what I'm building you. That is quite possible. Many of our learners, they have built that according to their requirement. So we'll be learning that, ok?
+1:04:25 : Dhanalakshmi Panneerselvam : So.
+1:04:26 : Sudarshan Testleaf : Predominantly we will be teaching you these two two apps in your phase one. With that learning, you can implement and we will be helping for you for your implementation. Got it.
+1:04:39 : Dhanalakshmi Panneerselvam : Got it. So you will be helping us to learn how to build that application.
+1:04:45 : Sudarshan Testleaf : Will give you the application and will explain you and we'll be helping you how to go and proceed further in phase one, a bit of copilot will be thought for you how to make the enhancement and other things in phase two of your learning, you will be learning extensively with copilot with white coding. Yria? From the base you can you can develop the agent, just.
+1:05:06 : Sudarshan Testleaf : With the architecture diagram you'll be able to develop the agent. You will be learning that detailed in phase two. So question from Satish here is how will you confirm it is covered all these scenarios? That is what Satish I told. This one will be generating you sixty to sixty five percentage. Other things we have to do that manually for the entire thing to be done.
+1:05:26 : Sudarshan Testleaf : I'll show you the app, when you're going to phase two, I when I'm explaining the contents in phase two I'll show you the app. That confirms that all scenarios are covered. Okay, done.
+1:05:40 : Shilpi Nagpal : Nowadays Jira has AI agent installed inbuilt.
+1:05:44 : Sudarshan Testleaf : Be learning that I don't see that should be some suspense by learning, right?
+1:05:51 : Shilpi Nagpal : So.
+1:05:53 : Sudarshan Testleaf : Have the Jira with the A agent, that's what you're asking.
+1:05:57 : Shilpi Nagpal : Yes I'm saying that yeah, nowadays Jira has AI agent already install.
+1:06:01 : Sudarshan Testleaf : That is fine Jira has the agent, if at all, what if you are going with the ado or any other thing, so it's a generic one. I understand in your organization, they are allowing to go with your Jira agent, but that not be allowed in all the organization, right? Can you get that point.
+1:06:19 : Nandeesha Siddaiah : That we are having MCP servers so that we are having some.
+1:06:22 : Sudarshan Testleaf : In that in detail MCP MCP I understand that's what Nandesh you went out of camera. Okay fine. We'll be learning that yeah no problem, we'll be learning about that MCP also in detail when you're moving on to phase two.
+1:06:40 : Sudarshan Testleaf : That's fine.
+1:06:43 : Rajesh Katyal : We will be implementing this, let's own client VM or interacting with their data, these llmiss So what are the security risks that client could have asked.
+1:06:54 : Sudarshan Testleaf : So that's what, that's what faced when I'm explaining phase two I'll tell you all those things, ok?
+1:07:00 : Rajesh Katyal : Okay. So.
+1:07:02 : Sudarshan Testleaf : Question here from the chat, let me answer the chat first. Our question is popping up like anything. So it's like, let us possible to build the agent to validate for the Yes, that is quite possible. We do have the prototypes tool to draw an image, it would be a, it could be added with the requirements to create. I can.
+1:07:22 : Sudarshan Testleaf : Can guide you that I can guide you on that Ashik, I can guide you on that with Figma or any other tool if you are having the requirement, I can guide you on that.
+1:07:32 : Sudarshan Testleaf : So we will be learning how to use the core pilot and creating forms. Yes, in phase two, you'll be learning extensively with the core pilot. In the organization there will be a restriction connecting to AA to internal site. What is this ways to handle that? I'll tell you when you're going to phase two I'll tell you that, explaining about phase two I will tell you that. If I want.
+1:07:52 : Sudarshan Testleaf : Want to import these cases into test management tool, how I can achieve it. So that is what, this is the one of the project will be giving you. You can just import that for that also, you can write the functionality.
+1:08:06 : Sudarshan Testleaf : If that is your requirement, if you are getting that as your requirement, we'll be guiding you.
+1:08:12 : Sudarshan Testleaf : Whether we will be learning how we can convert user stories to automation test cases. Yes, not user stories, feature files will be learning how to convert that will be showing you the demo, ok? Using playwrate MCP we'll be seeing that and moreover, for automation cases, we'll show you one of the extension just by inspecting the.
+1:08:32 : Sudarshan Testleaf : DOM script will be generated. I'll show you that next, ok? Fine.
+1:08:39 : Sudarshan Testleaf : Hope so I've answered all your question.
+1:08:41 : Ramyashree M : No, just one more thing here so in one of the week right you mentioned that there is selenium related thing also. But then in my organization we use just playwright. I don't have anything related to Java lineup. It's playwright or TypeScript. In that.
+1:08:57 : Sudarshan Testleaf : That's, we'll tell you that will tell you that I understand me to say your implementation is purely with playwright, but selenium is not there, right? That is what you are telling. Yes, that is, that can be also handled. This extension when you are going on week four, week three, when you're going with this extension, we'll be saying you how to add.
+1:09:18 : Sudarshan Testleaf : For play rate, how to add that for selenium C shop, all those things will be teaching you. If that said, we'll be able to generate this script, ok? Fine.
+1:09:29 : Vignesh : So.
+1:09:31 : Sudarshan Testleaf : Many of the publicly are available AA models are paid, how do we handle this? So for our practice, we'll be using a.
+1:09:39 : Sudarshan Testleaf : Free one only. When your progressing, we'll be learning the taship, ok? Will you be teaching any automation or selenium or play rate Lakshmi, it is purely a geneic course, here we are not going to go with any basic subsceredium or basics of play rate or any play rate script, you won't be teaching that, but we'll be saying.
+1:10:00 : Sudarshan Testleaf : How to generate the scripts, ok? Got it.
+1:10:04 : Lakshmi N  : Hi Sudhashan. Actually, I am from manual background, but I just have basics on Selenium and flared. So.
+1:10:16 : Lakshmi N  : Okay.
+1:10:19 : Lakshmi N  : Thank you.
+1:10:20 : Nandeesha Siddaiah : So that's.
+1:10:22 : Sudarshan Testleaf : We won't be using any browser use or anything. We'll be learning that we'll be telling you the list of softwares to be installed. That said, we'll be learning. You know we'll not be using any browser user or anything like that, ok? Yes Nandesh.
+1:10:37 : Nandeesha Siddaiah : So do you cover building any kind of agents for APA automation, like reading APA spec generating test scripts or API.
+1:10:46 : Sudarshan Testleaf : We'll be learning in phase two about one of the agent for converting.
+1:10:51 : Sudarshan Testleaf : Wagger into your APA script. We'll be learning that, ok?
+1:10:55 : Nandeesha Siddaiah : Oh, and then any chance do we use client as well along with copilot or is it only the co pilot?
+1:11:02 : Sudarshan Testleaf : Get you. That's.
+1:11:03 : Nandeesha Siddaiah : We have one more tool, right? That is also being used.
+1:11:09 : Sudarshan Testleaf : We are using only the cope pilot, we are going to use only the core pilot. The reason is we are having many tools in the market and other things, but widely used across the organization is copilot Since it's a Microsoft project. So we are going only within copilot, ok?
+1:11:26 : Nandeesha Siddaiah : Up up. So.
+1:11:28 : Sudarshan Testleaf : Thing here is I don't know about play rate, is that ok? Okay fine.
+1:11:32 : Karthik M : It's much better.
+1:11:32 : Sudarshan Testleaf : Trying to learn the bit of basics alone, that would be useful for your career enhancement.
+1:11:39 : Karthik M : Person Karthik here, so on completing the course side job you can do, right? All we need to stick on with the same organization like that because when I was working.
+1:11:51 : Sudarshan Testleaf : Let's go with the implementation, first go with the implementation. Implementation first, that is what I'm trying to tell you guys.
+1:11:59 : Sudarshan Testleaf : Then you can just go with your job switching. So you're asking about RPA, can you just go ahead with that.
+1:12:05 : Karthik M : Doing RPA right with you, initially we discussed like just try to implement this in within the organization, then you can go for an job switch over like that.
+1:12:15 : Sudarshan Testleaf : That's what here also, that's what here also I'm telling, Try to implement within your organization first so that we'll be having a.
+1:12:25 : Sudarshan Testleaf : Knowledge on that, then you can just go for a job switch. So fine guys I'm just going to stop the Q and A right now. Let us complete. I'll complete all the phase one phase two. Then you can just go for your Q and A I'm happy to answer you guys. So the same thing will be when you are proceeding the classroom session also, I'll be giving you some time for asking the Q and A You can ask me.
+1:12:45 : Sudarshan Testleaf : At that point so that there won't be any deviations. That one, that one also you have to mark in your classroom session requirements. Anyways, I'll complete this phase one and phase two and you can ask your questions. Fine. So this one of the agent which we saw that is converting your user.
+1:13:06 : Sudarshan Testleaf : Stories to test cases. Likewise, likewise, you'll be learning about a browser extension. You'll be learning about the browser extension here. So this extension, what happens when you are inspecting here, when you are inspecting here, it will be generating you the.
+1:13:27 : Sudarshan Testleaf : Selenium, java code As of now, we have done for selenium java, but we'll tell you how to implement for playwright and other things. You can use this with them without. Now you guys tell me right writing a feature file who are in the automation or who aren't aware of the automation writing the feature file and step division definition, how much time it takes for any particular.
+1:13:49 : Sudarshan Testleaf : Let's take that can be a login page itself. Take this login page itself, how much time it takes for writing a feature file and your step definition? Minimum control.
+1:14:00 : Mohamed Ashik : Will take a day.
+1:14:05 : Nandeesha Siddaiah : Yeah, around one day.
+1:14:08 : Nandeesha Siddaiah : So.
+1:14:08 : Sudarshan Testleaf : Microsoft on on our two and a half hours or it depends on the people if they are new, it will be taking time. But see here, I'm able to generate this code. I'm able to generate this code clearly.
+1:14:25 : Sudarshan Testleaf : So you'll also be learning about this in your phase one. You'll be learning that in your phase one. Soma I understand, please wait. See here we are having only the kickoff session, ok? When you're going into the classroom session, I'll just tell you elaborately about all things, need not worry.
+1:14:44 : Sudarshan Testleaf : Okay, so this is your.
+1:14:47 : Sudarshan Testleaf : One of the agent in your face one. So we saw two things here. Use the stories to test case converter and then your AA agent browser agent, which is going to generate you the script. So after that you'll be also learning about fine tuning to get your fine tuned model.
+1:15:08 : Sudarshan Testleaf : That is nothing but if you want to get your code base in your expected framework, how to find tune a model, you'll be learning that. So with that said, four weeks here phase one will be completed. Okay, we'll be learning that in your fourth week, your fine tuning, and coming back to phase two, ok.
+1:15:28 : Sudarshan Testleaf : Okay, let's go back here.
+1:15:33 : Sudarshan Testleaf : This is where all your questions will be answered. So I'm not going to go in detail. I'm just going to show you demo on two of the projects which are there in phase two, and one more thing is whatever you asked, how I can just give my data to any of the llm.
+1:15:53 : Sudarshan Testleaf : You will be having that question in your mind, how to give the data to any of the llm. That is my office data. So you'll be learning how to fetch the office data or say for example, there would be a test cases or there would be any documentation that is specific to your organization. You will be storing that internally into a database.
+1:16:13 : Sudarshan Testleaf : And then you'll be fetching that and also that will be an implementation called guardrails and evaluation of your LLM. You'll be seeing how your LLM is answering and other things. We'll be learning that also extensively in phase two with Deep. So let me just go back here. So first three weeks you'll be learning about rag.
+1:16:34 : Sudarshan Testleaf : Database. That is nothing but rag is nothing but you are storing all your knowledge base, your organization data will be stored within your organization in a vector database. We'll be learning that in detail and we'll be seeing how to retrieve the same from.
+1:16:51 : Sudarshan Testleaf : Using the agent. Say for example, I have my test cases and user stories. I'll show that in the databases and from that existing user stories I can just pick the regression test cases which are required. That is one of the agent. And another one is like if you are going with land chain and land wrap.
+1:17:12 : Sudarshan Testleaf : All these are frameworks for creating the agent. How we how we are having a serenium or play rate for creating a automation script, likewise, you can use land chain as a framework to create the agent. So to learn all these things, to learn all these things, if you, if you ask me whether I need a coding knowledge, no, we'll be.
+1:17:32 : Sudarshan Testleaf : Teaching you how to go with core pilot with white coding. And also you will be learning MCP servers, how to create MCP i mean to say how to use the MCP servers playwright MCP servers, all those things you'll be learning. In phase two, Right now we'll show about two agents.
+1:17:52 : Sudarshan Testleaf : Okay, one is a test case converter, as you all asked, how we are saying that it is accurate without the knowledge base, we'll show you that one. And another one is.
+1:18:02 : Sudarshan Testleaf : A no code low code automation for playwright. So as as of now considering the time, we'll be showing these two agents, what you're going to learn in.
+1:18:12 : Sudarshan Testleaf : Phase two, but going forward N number of implementation of the agents will be there. Minimum you'll be learning at least four to five agents. And one more thing, you'll be having the hackathon. We are into the phase two will form the groups and we'll we'll just give divided you into the group.
+1:18:32 : Sudarshan Testleaf : And you can just post your ideas and you will be building your own agent and then what happens that we'll be helping you. We'll be helping you to build that agents and if at all it is required, you can just present that in your office also. That is what we are following till now from phase one to phase two for all the batches and we got many success stories.
+1:18:52 : Sudarshan Testleaf : So what I'll do right now is I can just I'll ask Shankar to share the screen and I'll explain you about one of the two agents we are just going to see in phase two. Other agents will be learning in the upcoming session when you're into the phase two, you'll be learning about other agents. So Shankar, please share the screen Shankar.
+1:19:13 : Sudarshan Testleaf : Stop sharing.
+1:19:16 : Sudarshan Testleaf : If we have selenium scripts already existing, how can I use AA to enhance it further? You'll be learning that. You'll be seeing that, ok?
+1:19:24 : bhanu : Okay, yeah, thanks.
+1:19:26 : Sudarshan Testleaf : Fine, this is one of the application, guys, if you are if you're not unable to zoom, just click on the center button Zoom will be there in your Webex. So what happens here, just go up here, all the data, my organizational data, say for example, user stories and test cases, all the things we are.
+1:19:47 : Sudarshan Testleaf : Showing in a vector database. So that vector MongoDB Shankar, so that MongoDB.
+1:19:55 : Sudarshan Testleaf : You'll be learning that in detail why we are using vector database and other things. We'll test case go to the test case collections and show you, show that.
+1:20:28 : Sudarshan Testleaf : So for people who have asked like hey that is my organization data. If it is going out of the organization, how it how it would be. And one more thing is how we are saying that a scenario coverage is there or test coverage is there. So all these knowledge base user stories and test cases will be storing it locally in this.
+1:20:48 : Sudarshan Testleaf : Within your organization in a vector database. Now, based on which.
+1:20:56 : Sudarshan Testleaf : Our app which we have generated, that will be generating the new test cases and it also shows you the existing regression test cases which is required and go to that option.
+1:21:09 : Sudarshan Testleaf : And go to the tab.
+1:21:13 : Sudarshan Testleaf : And just go for a not for a vector search, go for the generation directly, go for the generation. So here I'm just going to give one user story. Let's take this TC three zero five user story, just copy that and show that in VS code, just copy that and show that to VS code.
+1:21:43 : Sudarshan Testleaf : So here, this particular user story I'm just going to create a new test case. What happens here, when I'm just going to generate it, it will be checking my ex existing knowledge base from the database and then it won't duplicate, it will be generating the new test cases. Go ahead Shankar, you can go for generation. For this particular user story.
+1:22:25 : krishna Kishore : This app is not linked to any of the jiras, right? It's only isolated app.
+1:22:33 : Sudarshan Testleaf : We are not linking to Jira, but we are taking all the user stories and test cases ensuring that in the vector database scroll down scroll down Shankar.
+1:22:40 : Sudarshan Testleaf : Been under appleable scroll down. So can you all see the test cases generated? P one P two and based on the module, can you all see the generated.
+1:22:52 : Sudarshan Testleaf : Yes or no.
+1:23:00 : Sudarshan Testleaf : How much time it took for generation and accuracy also you just got the accuracy, right?
+1:23:07 : Sudarshan Testleaf : This is newly generated test cases and it is also showing the reference test cases that is nothing but your regression cases.
+1:23:17 : Sudarshan Testleaf : This agent will be good for you guys? Yes or no? Good to project.
+1:23:23 : Pooja Kirti Taneja : Yes.
+1:23:26 : Rajalakshmi : How's.
+1:23:27 : Sudarshan Testleaf : One of the agent we are learning here, right? Likewise, likewise, we have you'll learn, will also learn another agent. See, I'm just limiting one second I'm telling you I'm just giving you example of two agents in phase two. It'll be learning multiple agents considering the time I'm just giving you only the two agents here. So just.
+1:23:47 : Sudarshan Testleaf : Go to Shankar, just go and open that play rate low code, no code. So before that wait wait, before sharing, please wait. And is that ok for your all within your organization you are using your organization data, and if you want to use the llmiss in your organization, you can evaluate that, that will be an LLM engineering team, they will be.
+1:24:07 : Sudarshan Testleaf : Evaluating, ok? We'll be telling you how that would be done with your LLM evaluation with a tool called deep eval. It's a library called deep level. All these things will be learning in phase two.
+1:24:20 : Sudarshan Testleaf : Phase one that's a startup and heads up will be getting that. And when you're moving on to the phase two, trust me, what happened here at the end of the phase two, you will be become independent to development agent. You'll be gaining the knowledge considering that you have to attend all the session. And one more.
+1:24:41 : Sudarshan Testleaf : Question to all, how many of you have not enrolled in phase two? Just type me. How many of you have not enrolled in phase two? Just type me.
+1:24:53 : Nandeesha Siddaiah : In the phase two. So this course is combination of phase one phase two, right? Or.
+1:24:58 : Sudarshan Testleaf : No, no. Phase one is what we learned for only four two months sorry no one month I'm sorry phase one is one month. Phase two is four months. That is one plus three, four months together phase one and phase two. How do we know.
+1:25:14 : Sudarshan Testleaf : Based on your payment, what is your payment?
+1:25:19 : Nandeesha Siddaiah : I think around fifty k or something.
+1:25:23 : Sudarshan Testleaf : Around fifty.
+1:25:24 : Sharanya : Taking.
+1:25:25 : Sudarshan Testleaf : Yeah enrolled for both phase one and phase two. That is fine.
+1:25:29 : Nandeesha Siddaiah : Three months or four months, right?
+1:25:31 : Sudarshan Testleaf : Two Plus three months.
+1:25:32 : Nandeesha Siddaiah : Yeah, one plus three, four phase one phase two.
+1:25:35 : Sudarshan Testleaf : Yes, no, that might differ. Okay, what about others who have not enrolled.
+1:25:43 : Sudarshan Testleaf : Now you can just get that. Just type me.
+1:25:50 : Sudarshan Testleaf : Okay, so trust me once again I'm telling you I'm not doing any sales pitch here. If you are going with your phase one and phase two, that would be a complete one and you will be able to clearly build your own agent independently.
+1:26:08 : Sudarshan Testleaf : If at all only with phase one, you'll be learning the basics of LLM and then you'll be able to go with two of the apps. But extensive learning with rag and agent fully agent flow with your core pilot MCP servers will be having only in phase two. Got it?
+1:26:28 : Sudarshan Testleaf : Okay, if at all, after seeing this, if you want to enroll in phase two, you can just.
+1:26:36 : Sudarshan Testleaf : Connect with me now, that is, you can just ping me in the WhatsApp so that I'll ask the concern team to call you. I'll just given my number here in the WhatsApp, sorry, in the Webex why? Because most of the people who are not enrolled in the WhatsApp group. So you can take my number it's double eight four, seven, three, five, four.
+1:26:56 : Sudarshan Testleaf : Four eight six.
+1:26:59 : Sudarshan Testleaf : Me, if you want to enroll in both phase one and phase two.
+1:27:04 : Sudarshan Testleaf : Fine. So let's go and see the next agent. So.
+1:27:08 : Kirubakaran : There's no.
+1:27:12 : Sudarshan Testleaf : So I couldn't get you.
+1:27:14 : Kirubakaran : I have one question shall I ask you now?
+1:27:17 : Sudarshan Testleaf : Go ahead with your question I'll just move on with player item CP and then we can have the qaq Q and A session.
+1:27:24 : Kirubakaran : You I've seen this vector database and even yesterday during masterclass, I was seeing this thing. One doubt here is you're mentioning about the regression test cases which are kind of existing test cases on top of that, our agent is generating the newly generated test cases, right? So from where this, so it means we are supposed.
+1:27:44 : Kirubakaran : To upload our existing test cases to the vector databases, is it? And.
+1:27:51 : Kirubakaran : The newly generated test cases will also get stored to the same database going forward, which will be again considered as existing test case. That's how.
+1:28:01 : Sudarshan Testleaf : Yes, you're right.
+1:28:04 : Kirubakaran : So whatever test cases which I have in my.
+1:28:07 : Kirubakaran : Project already, those all should be uploaded to the database and then that perfection will come into picture.
+1:28:14 : Sudarshan Testleaf : This you will be learning that in detail group and as of now what I can tell you is yes, but there are more concepts in the concept that those are there, ok? Fine?
+1:28:24 : Kirubakaran : Thanks.
+1:28:25 : Sudarshan Testleaf : That's what is like yes you're right somehow. Okay fine guys, you can just proceed. Shankar can share your screen.
+1:28:34 : Sankar TestLeaf : That's.
+1:28:45 : Sudarshan Testleaf : Those one of the agent will be learning. So what is the primary goal of this agent is I'm just going to give only the feature file, so yeah, when I'm just giving the feature file and clicking on the run button, run button gonna scroll point of, the scroll.
+1:29:03 : Sudarshan Testleaf : Zooma, yeah. Just zoom, please zoom it. And so scroll, that's enough, yeah. We have this feature file here, and just.
+1:29:15 : Sudarshan Testleaf : Croll scroll towards your right. When you click on this run button, the script will be executed, ok? Browser will be opened and script will be executed along with which play rate script will also be generated. Go ahead Shankar, click on this one button.
+1:29:53 : Sudarshan Testleaf : So you can see here this is our leaf tab application. So we have just given in the feature file to log into the application and fill all the form fields in the create lead.
+1:30:05 : Sudarshan Testleaf : And then log out. Suppose.
+1:30:42 : Sudarshan Testleaf : We've done Shankar.
+1:30:45 : Sankar TestLeaf : Yeah. Yeah.
+1:30:48 : Sudarshan Testleaf : Done. Just go to the no code local automation, just go to the tool agent, so it's still running. Meanwhile, you can see the feature file here. Can you all see the features file, feature file Shankar, please go to the feature file.
+1:31:01 : Sudarshan Testleaf : The editor.
+1:31:06 : Sudarshan Testleaf : Here we are just giving the instructions in the feature file, a plain jerking language. Now that has been executed and you can also see the test script. Go to that script Shankar.
+1:31:25 : Sudarshan Testleaf : Generated code, generated code. All the video, all the snapshots, all these things will be available along with the code generated. Scroll down, can you all see the code?
+1:31:39 : Sudarshan Testleaf : All cd code yes, no. Zoom and zoom in.
+1:31:44 : S. Robert Martial : This to.
+1:31:46 : Sudarshan Testleaf : Time it took.
+1:31:51 : Sudarshan Testleaf : And you guys tell me whether this would be a good learning or not.
+1:31:58 : Sudarshan Testleaf : Will be in your hand, you can enhance according to your organization need.
+1:32:04 : Nandeesha Siddaiah : There's I think.
+1:32:07 : Sudarshan Testleaf : All these things will be.
+1:32:10 : Sudarshan Testleaf : Learning in.
+1:32:13 : Sudarshan Testleaf : In phase two, ok?
+1:32:19 : Sudarshan Testleaf : Starting Shankar.
+1:32:25 : Sudarshan Testleaf : So these are the learnings I have just walked through with your roadmap or your journey in phase one and phase two. Apart from that, we'll be also getting your project support. If at all if you want to implement anything, if you need any support, we'll be supporting you.
+1:32:44 : Sudarshan Testleaf : Fine? All good.
+1:32:46 : Rajesh k k : So this is one question, like in my company we are still having a desktop application we are working on so WFA publication for that one also we can use these tools to generate.
+1:33:00 : Sudarshan Testleaf : So this is web, this is web based Rajesh, so when it comes to your WCF, I have to check what is the requirement.
+1:33:08 : Rajesh k k : Okay.
+1:33:09 : Sudarshan Testleaf : Once you are into that, we can see how far how far we can just be able to do that, ok?
+1:33:14 : Rajesh k k : Okay.
+1:33:15 : Sudarshan Testleaf : See the app tech stack and other thing we can see and we can decide how to proceed, ok?
+1:33:22 : Rajesh k k : Yeah, then.
+1:33:24 : Sudarshan Testleaf : So Divya is it possible to generate POEM or any other hybrid framework? Yes, quite possible. That can be done. Yes.
+1:33:33 : Stanly : As solution something like we mostly using the transaction simulator like mastercard visa, so something those things can be simulated using this.
+1:33:44 : Sudarshan Testleaf : All your project related queries, what I'm trying to tell is, I should see how the tech stack is and how we have done that. I should visualize that first. Okay, and it is quite possible nowadays with your agents. That is pred predominantly possible, but still, I can just visualize and I can tell you.
+1:34:05 : Sudarshan Testleaf : Oh Visa called a transaction. So what is your requirement? What is your requirement?
+1:34:10 : Stanly : Something like, they have the different data elements, right? Like visa and mastercard. So those things we on day to day life we used to simulate those transactions, so something we need to prepare instead of looking for that devices visa mastercards or something can, we can, you know, create a by our own, those things we need to do. This is kind of.
+1:34:31 : Stanly : Our team boss team.
+1:34:33 : Sudarshan Testleaf : That's what Stanley, when you're into phase two, you'll be just learning those agents and other things based on which you'll understand how the agents works and how the rack works, based on which, what is your requirement. You're telling the requirement and if you're starting start to build your own agent, we will be helping you on that. Okay. That that could be quite possi.
+1:34:54 : Sudarshan Testleaf : But we need to check the requirement and then we are too fast. I really agree with you as I told you at the starting, we are pushed from the top level management. Yeah, I agree with you. I agree with you on that, but still we have to have some learning curve, a couple of we should decide. You yourself can decide whether that is possible or not, ok.
+1:35:16 : Sudarshan Testleaf : Fine.
+1:35:18 : Rajesh Katyal : Yeah hi Sudarshan, so, last week only I raised a PR it was a dot net playwright framework with reckon role, so I asked my manager to review my PR and he reviewed and merged it and then after one minute he asked me to, can you build a code review agent.
+1:35:38 : Rajesh Katyal : So that it can review your PR? But I don't know that time so after completing this course will be, we be able to, you know, develop such agents such complex agent who can review our code as well?
+1:35:53 : Sudarshan Testleaf : Pretty much yes, that's what I can tell you. Yes, that is quite possible. Now Rajesh, you are speaking that in that lower voice whether I can build or not, once after completing your voice will be different, your tone will be different and your confident level will be different.
+1:36:09 : Rajesh Katyal : I did not answer his question because I was not sure I just like his comment. So.
+1:36:14 : Sudarshan Testleaf : No problem at all.
+1:36:17 : Sudarshan Testleaf : The answer is yes, ok?
+1:36:21 : Rajesh Katyal : Thanks.
+1:36:22 : Sudarshan Testleaf : So Sadana mentioned like in our organization if you have restriction to use this app, how can you be use this app in which app, which app you are telling Sadana?
+1:36:34 : Sadhana : You shown the test case generator, right? So that.
+1:36:38 : Sudarshan Testleaf : Local host only. Local hoster will be giving you the code, you can just import the code and run it locally. If at all they are just.
+1:36:49 : Sudarshan Testleaf : I want to say restricting that in a local host, you can just ask the permission saying that I'm just running that locally. It is not posted anywhere. Like any of the website. First of all, you are not going to host that. You're just going to run that locally and will be telling that. So there won't be any problem at all, ok? Fine.
+1:37:12 : Nandeesha Siddaiah : As I said, this agent or does it take care of generating different varieties of test data for any given test case? Generally we run one test case with multiple data positive negative data.
+1:37:24 : Sudarshan Testleaf : Possibly quite possible, that is possible. So I can see many of the yell number of requirements coming from your end.
+1:37:32 : Nandeesha Siddaiah : But anyway.
+1:37:33 : Sudarshan Testleaf : That's.
+1:37:34 : Nandeesha Siddaiah : They have a lot of requirements.
+1:37:36 : Sudarshan Testleaf : I'm saying to all of you, that's the good one, really good one. But still.
+1:37:41 : Sudarshan Testleaf : That whatever you're telling, Nandesh that is possible. That is possible with your test data generator, that can be done.
+1:37:49 : Nandeesha Siddaiah : Yeah, thanks. Yeah.
+1:37:53 : Sudarshan Testleaf : Seeing AD one player rate C shop, can I get help from you building five or my art? Okay, what agent is needed? We can discuss that Magesh. We can discuss that first, we can just complete first phase, first to phase after completing first to phase, your confidence level will be high.
+1:38:11 : Sudarshan Testleaf : Or in the medium level. Second phase complete partner higher level, so for some of the citation I'm telling you how many of you have seen that movie am I and Thamur for people from other languages I'm sorry just a citation. How many of you have seen that movie the.
+1:38:28 : Sudarshan Testleaf : What Satiraj will be doing? You'll be condesting in the MLA election. First, when the vote is getting started, they'll be ordered and what he'll be doing is like he'll be sitting at the edge of the chair.
+1:38:40 : Sudarshan Testleaf : Based on his, this one.
+1:38:44 : Sudarshan Testleaf : Each and every time he will be in the leading point, he'll be just moving. At last, what he'll be doing, he'll be in a position.
+1:38:52 : Sudarshan Testleaf : To have the slex folded together. Are the other? The same thing will happen for you guys also, ok?
+1:39:01 : Sudarshan Testleaf : Whomsoever voices right now low saying that whether I can build or not confidently you guys will go and say that I can't I have built, ok?
+1:39:15 : Sudarshan Testleaf : But only one requirement from your end. You should attend the class properly, attentively.
+1:39:22 : Sudarshan Testleaf : Are we ok for that?
+1:39:24 : Sabarish Sampathkumar : That's.
+1:39:28 : Magesh : It's.
+1:39:29 : Sudarshan Testleaf : Possible. We can do that, ok?
+1:39:38 : Sudarshan Testleaf : Is there any complexity for building power apps or other things? Maria, that is your project kind of thing, right? Let's take first, that's what I'm telling you, I understand you have many of the project requirements. First we can just cross the phase one, and then if you are into phase two, you are starting that itself, you will be gaining the confidence. The same answer I can just give that to you Maria, ok?
+1:40:10 : Sudarshan Testleaf : Fine guys. So one seven once again I'm just telling you this thing, if you are not into phase two.
+1:40:17 : Sudarshan Testleaf : Please please please try to learn phase two, that is where you will be learning entire agent flow along with as I told you like and other things, that would be pretty much useful for you guys, ok? So once again, Shankar just put the Sanjay's number here. Sanjay's number. You can use Sanjay's number.
+1:40:37 : Sudarshan Testleaf : For your WhatsApp thing and other things. You can just ask Sanjay. If you want to enroll to phase two, you can just connect with me I've just given my number. I'm sending it once again. Just ping me in the WhatsApp. I'll ask your team to call.
+1:40:56 : Sudarshan Testleaf : Can you just copy the number from the Webex chat.
+1:41:05 : Sudarshan Testleaf : Yes yes, rag evaluation using the will also be covered. We will be learning that summer, ok?
+1:41:14 : Sudarshan Testleaf : Hope so I've answered most of your question. Is there any other question I can answer or.
+1:41:18 : Kirubakaran : It is a complete full course phase one phase two all together fifty K So, we were not informed like we need to enroll separately for phase one and separately for phase two.
+1:41:28 : Sudarshan Testleaf : Together that I'm saying, together if it is you have paid that amount, that is together for both phase one and phase two. Okay what.
+1:41:35 : Kirubakaran : Fine fine sufficient things. And one more question like your in between you are mentioning like aluminus non aluminus, right? I'm not getting what exactly that term is.
+1:41:45 : Sudarshan Testleaf : Aluminus in the sense already people who would have done a celenium course or playwright course or any other courses. Those are considered though those people are considered a loumus. If you are fresher coming to Jenny freshly, you are non alumus. Now, after, afterwards if you are enrolling for any other courses, you'll become aluminous, ok? Got it?
+1:42:07 : Sudarshan Testleaf : Clearera.
+1:42:08 : Vignesh : Yes.
+1:42:10 : Vignesh : I have one question actually. So whether we will be like learning about CICD pipelines and GitLab stuffs as well, like using or.
+1:42:19 : Sudarshan Testleaf : No, no, no.
+1:42:23 : Vignesh : Okay ok ok at least the generation of that YAML file.
+1:42:32 : Sudarshan Testleaf : Learning that but still if you are just working on that, if you need any help or any assistance, you'll be providing you that, ok? As a part of curriculum, we are not going to learn that, ok?
+1:42:44 : Vignesh : Thank you. Thank you.
+1:42:48 : Sudarshan Testleaf : So someone was asking about one of the agent I want to review the user story. In Phase two will also be learning about one of the low code, no code, that is.
+1:43:00 : Sudarshan Testleaf : It's a drag and drop canvas. Can you all see my screen? Can you all see my screen?
+1:43:07 : Satish : This. So.
+1:43:09 : Sudarshan Testleaf : It's a before building an agent, you can use this drag and drop Canva with which you can just show the demo and other things. So user story review agent if you want to do that, it fetches the user stories from the jira. This is my Jira account and then it will be giving me the review score. If.
+1:43:30 : Sudarshan Testleaf : You want, you can see that here, and that will be converted into a template. So I'll show you run and show you that so that that would be useful for you.
+1:43:42 : Sudarshan Testleaf : This will be a part of your phase two. So I got this. I'm just going to save this as an HTML.
+1:43:53 : Sudarshan Testleaf : And show you.
+1:43:57 : Sudarshan Testleaf : Is the actual learning in your phase two, the current batch in the phase two, they have learned that. We are going for a demo purpose and other things. We're gonna have this particular review agent.
+1:44:14 : Sudarshan Testleaf : It is giving you the score, sixty one out of hundred. What happens? And I'm just running this, all my user stories, this is this would be my user stories which I can get after extracting from the Jira. This is my Jira user story. It gives me all that in the.
+1:44:34 : Sudarshan Testleaf : The front JSON format. So here you can see the user story in the JSON format here, that I have extracted.
+1:44:43 : Sudarshan Testleaf : In the normal format. This is my actual user story and I have scored using the LLM. So at last for a demo, you can see this dashboard with sixty one percentage, ok? Also be learning about this drag and drop tool in phase two.
+1:45:04 : Sudarshan Testleaf : Got it?
+1:45:12 : Nandeesha Siddaiah : One more question.
+1:45:15 : Nandeesha Siddaiah : I think after learning all this building agents for different purposes, right? Like test case or test script, so are you going to kind of build integrate all these things into a kind of a generic framework and execute as a framework to test either UI or APA.
+1:45:33 : Sudarshan Testleaf : What Mandesh will be learning. I had at this moment I can say that that's what I can say. Because.
+1:45:40 : Nandeesha Siddaiah : Yeah, because our goal is that automating the manual test case building.
+1:45:44 : Sudarshan Testleaf : We are going to head.
+1:45:45 : Nandeesha Siddaiah : That the d.
+1:45:53 : Ramyashree M : Yeah, my question is a little out of context, but I hope most of us will be leading. What about big C EI is now coming playwright team Selenium team. So what about job security and all.
+1:46:07 : Sudarshan Testleaf : Used to tell this always, I'm just telling that here also. A is not replacing.
+1:46:13 : Sudarshan Testleaf : People who are knowing A or people who have learned this request. That is what.
+1:46:17 : Nandeesha Siddaiah : Take a couple of things.
+1:46:19 : Sudarshan Testleaf : Here now the market.
+1:46:20 : Nandeesha Siddaiah : How it is.
+1:46:21 : Sudarshan Testleaf : Thing here is what are the design.
+1:46:23 : Sudarshan Testleaf : I'm a test manager.
+1:46:25 : Nandeesha Siddaiah : This manager.
+1:46:26 : Sudarshan Testleaf : A developer.
+1:46:27 : Nandeesha Siddaiah : That went.
+1:46:28 : Sudarshan Testleaf : Help with. So it's all A that is replacing and you can see that in another six months there would be a revolution kind of thing like people who are knowing the A they can survey, that is what is going to happen. From past experience, that's what I told earlier also like before three or four months, only the core pilot license was given to many of them. But now many.
+1:46:49 : Sudarshan Testleaf : Organizations, they have started to use the LLM and they want, they are pushing.
+1:46:55 : Sudarshan Testleaf : Show something in the agent, they want that to happen. They want to leverage AI in their particular day to day work. So that is what is happening Dish. Sorry, how may I suppose Ramesh, yeah.
+1:47:13 : Sudarshan Testleaf : So fine guys follow ok. Thank you so much. Thanks for your time. We can meet next week and please be prepared and come out all your things, ok?
+1:47:26 : Jahira Banu : Sure.
+1:47:26 : Nagarajan  K : Thank you.
+1:47:27 : Sudarshan Testleaf : That's.
+1:47:28 : Shilpi Nagpal : Can you please share the path of the today's recorded video?
+1:47:33 : Sudarshan Testleaf : In the platform that it takes platform that will be there. I can share that in the web, WhatsApp group.
+1:47:43 : Shilpi Nagpal : Thank you.
+1:47:44 : Nandeesha Siddaiah : So that's when we.
+1:47:47 : Sudarshan Testleaf : If you're not in the WhatsApp, if you're not in the WhatsApp one second, I'll share you this platform link here.
+1:47:55 : Sudarshan Testleaf : You can just take the platform link. I've shared it here if you're not in the WhatsApp.
+1:48:02 : Sudarshan Testleaf : Okay.
+1:48:04 : Vinod : A solution one question, so before coming for the next session, do we need to softwares or anything of that sort?
+1:48:11 : Sudarshan Testleaf : This will be sending you that, we'll be sending you that. All those things we'll be sending you, ok? In the week guess We'll, sure.
+1:48:18 : S. Robert Martial : Hi hi Sudashan, one more question. You said some documents reference documents will be available, right? But I went to that session there isn't that location, there is no documents.
+1:48:27 : Sudarshan Testleaf : Actually we didn't we will start the session itself right once after starting the session, a day by day we'll be just giving you classroom reference document and other things. As a prerequisite, we'll be sending you one of the documents in the weekday, you can just learn that, ok? Through WhatsApp will be sending that and just go through that.
+1:48:44 : S. Robert Martial : Thanks.
+1:48:46 : Nandeesha Siddaiah : Listen in the in the last session, they said that when we enroll in the during the session itself, right, we're gonna get some three packages like the selenium, playrate, and java sum courses. So when I checked I think probably elastic I checked there was no available recordings or any kind of training material. Do I need to connect with somebody to get access to those.
+1:49:08 : Sudarshan Testleaf : Yes, you can connect with nirmal or Sanjay.
+1:49:13 : Nandeesha Siddaiah : Okay, probably maybe we can put their contact details.
+1:49:17 : Sudarshan Testleaf : Contact details. Okay.
+1:49:19 : Nandeesha Siddaiah : Okay, yeah. Okay i'll connect with Sanjay. Yeah.
+1:49:25 : Dinesh : Question one question. Actually, Babusar will come in phase two session.
+1:49:33 : Dinesh : Okay, thank you.
+1:49:43 : Sudarshan Testleaf : Okay fine Vidya I can just go ahead with your question. And.
+1:49:48 : Sudarshan Testleaf : Please go ahead.
+1:49:54 : Sudarshan Testleaf : Couldn't hear you, is that me alone or or what others?
+1:49:59 : Satish : We are still not here.
+1:50:03 : Sudarshan Testleaf : Yes yes yes.
+1:50:04 : Vidhya M : So I need your help like regarding the organization activities might be wouldn't be possible for me to connect with you post this call? Or how.
+1:50:15 : Sudarshan Testleaf : Yes, we can connect, we can connect. Okay. Like in the weekdays can we connect? Is that.
+1:50:21 : Vidhya M : I might be I need some five minutes of your time, because I need to proceed with it tomorrow. I have to show some PPT so that's the reason I just thought I would.
+1:50:31 : Sudarshan Testleaf : Okay, ok, fine then ok just.
+1:50:33 : Vidhya M : You and your mobile number or through Yes yes.
+1:50:38 : Vidhya M : Thank you so much.
+1:50:42 : Ramyashree M : Sorry, just one more question. So I see a couple of recorded courses, right? So is it like a part of this Genia thing only that we have paid or is it like separate thing?
+1:50:53 : Sudarshan Testleaf : Courses in the sense bundles you're asking.
+1:50:56 : Ramyashree M : Yeah, yeah, like Kubernetes so many selling and so many things recommended courses lists.
+1:51:02 : Sudarshan Testleaf : Those things would be paid for you when you are going for the bundles kind of stuff.
+1:51:09 : Ramyashree M : What did you say?
+1:51:10 : Sudarshan Testleaf : The paid courses paid courses.
+1:51:12 : Ramyashree M : Okay, for that we have to make separate payment you see. Yeah.
+1:51:15 : Sudarshan Testleaf : Yes.
+1:51:16 : Ramyashree M : Okay.
+1:51:24 : Sudarshan Testleaf : Hey, thank you all guys. Thank you all. I think so, so Saranjan, do you have any queries?
+1:51:31 : Mohamed Ashik : Listen here I have one question.
+1:51:35 : Saranyan : So one question I have, so I mean is there any application set up in my machine so so that I will be get ready for the next further session?
+1:51:44 : Sudarshan Testleaf : Please sending you the installation, we'll be sending you the installation during days we'll be sending them, ok?
+1:51:49 : Saranyan : Thank you. No.
+1:51:52 : Sudarshan Testleaf : It's.
+1:51:54 : Mohamed Ashik : I mean, during our Masterclassar was telling that I mean we will have access to many of our many of the available courses for free, like, like the older courses like driveright, he said I mean like they'd be available in the same, platform or we have to.
+1:52:13 : Sudarshan Testleaf : Will be available in the same platform, just.
+1:52:16 : Mohamed Ashik : Looks like we have it is asking us to pay actually.
+1:52:21 : Sudarshan Testleaf : Just make a note of it, Shankar. That's fine. We'll just make a note of it and do that. So.
+1:52:26 : Mohamed Ashik : Sure, thank you sister.
+1:52:27 : Sudarshan Testleaf : Yeah, sure. So how will we notified on weekend classes? Will we having the WhatsApp group, right? The WhatsApp group will be sharing you the Webex link and things will be shared, ok? Fine.
+1:52:41 : Ramyashree M : So this in the same thing I asked, no, one more person, you know?
+1:52:46 : Sudarshan Testleaf : Yeah, then that's what that's what we are making a note of it Ramesh. The context I got the clear context from him like it's from webinar. Okay, we are just making a note of it and we'll just tell you, ok?
+1:52:59 : Sudarshan Testleaf : Yes, guys, we are done with the today's session and thank you so much. We can see by next weekend, be prepared and we'll be sending you some of the prerequisite and please try to install those things and read those prerequisites, ok? Satish for adding in the WhatsApp group, you can connect with Sanjay, ok? Thank you guys.
+1:53:18 : Sudarshan Testleaf : Thank you all.
+1:53:21 : Rathnakumar PK : And so.
+1:53:22 : Sabarish Sampathkumar : Thank you.
+1:53:24 : Sudarshan Testleaf : Thank you.
+1:53:26 : Stanly : Thank you.
+1:53:27 : Sudarshan Testleaf : Thank you. Thank you.
+1:53:37 : S. Robert Martial : That's.
+1:53:38 : Sudarshan Testleaf : And thanks Mindu Satish, you can just Satish, do you have the number Sanjay's mobile number or contact? Do you have this mobile number or contact?
+1:53:56 : Sudarshan Testleaf : I put that once again, if you want, you can just refer that's Satish. Fine.
+1:54:01 : Shilpi Nagpal : Yeah, so there's can you give me the exit path of the recorded videos? Because here like I moved on to this URL but I cannot see the recorded video.
+1:54:11 : Sudarshan Testleaf : Then uploaded, we didn't upload it.
+1:54:14 : Shilpi Nagpal : Got it got it but what's the path actually? Yeah.
+1:54:18 : Sudarshan Testleaf : I can show you that, ok?
+1:54:22 : Shilpi Nagpal : So.
+1:54:24 : Sudarshan Testleaf : Once after login, you can see this and expand this. You are having the my live process, expand that under videos.
+1:54:33 : Sudarshan Testleaf : Once I wanted it's uploaded, you'll be getting that, ok?
+1:54:38 : Shilpi Nagpal : Okay, my life courses I am not able to see maybe I'll connect.
+1:54:44 : Sudarshan Testleaf : They're looking on that way, ok?
+1:54:47 : Shilpi Nagpal : Okay, ok, got it. Yeah. Thank you. Okay.
+1:54:52 : Sudarshan Testleaf : Thank you guys. Thanks for your time. Thank you all.
+1:55:00 : Sudarshan Testleaf : Just going to end the session. Thank you.
+

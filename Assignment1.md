@@ -1,5 +1,5 @@
 # Assignments
-
+This technical overview outlines the operational parameters and safety protocols for various prominent artificial intelligence models. It specifically details the token limitations of systems from OpenAI, Claude, and Qwen, highlighting how the context window is partitioned between user prompts and generated responses. The text also underscores the importance of input and output management for optimizing performance and cost-efficiency. Finally, it suggests using specialised moderation APIs as a protective layer to ensure that model interactions remain secure and filtered for safety. Via NotebookLM
 ## OpenRouter Model Token Limits
 
 **Context window**: Total tokens the model handles (input + output combined).  

@@ -54,11 +54,12 @@ pm.test("Response contains findings", function () {
     pm.expect(jsonData.choices[0].message.content).to.be.a('string');
 });
 ```
-![ScreenShot]("S07-success.jpg") 
+![ScreenShot](S07-success.jpg) 
 
 - Model accepted and responds correctly
 - Output follows required structure
 - S07 passes successfully
+
 
 
 

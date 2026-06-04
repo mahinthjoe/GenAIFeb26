@@ -1,0 +1,71 @@
+Reviewing the current `package.json` so I can pin stable dependency versions and fix install errors.
+
+Read [](file:///c%3A/Users/mahin/git/GenAIFeb26/Resumes_AI_Rag/package.json)
+
+Updating package.json dev dependency versions to known stable releases and then verifying install.
+
+Replacing 13 lines with 13 lines in [](file:///c%3A/Users/mahin/git/GenAIFeb26/Resumes_AI_Rag/package.json)
+
+
+```
+
+```
+
+
+Ran terminal command: npm install
+
+The install command was interrupted unexpectedly; I’m retrying with a clean run to confirm the new dependency pins.
+
+Ran terminal command: npm install --loglevel=error
+
+Install succeeded after pinning stable versions; now I’m verifying that Jest and test scripts work.
+
+Ran terminal command: npm test
+Completed with input: npm test
+
+Found a TypeScript compile issue in `resumeRepository.ts`; fixing `_id` filter and re-running tests.
+
+Read [](file:///c%3A/Users/mahin/git/GenAIFeb26/Resumes_AI_Rag/src/repositories/resumeRepository.ts)
+
+Replacing 5 lines with 6 lines in [](file:///c%3A/Users/mahin/git/GenAIFeb26/Resumes_AI_Rag/src/repositories/resumeRepository.ts)
+
+
+```
+
+```
+
+
+Replacing 5 lines with 6 lines in [](file:///c%3A/Users/mahin/git/GenAIFeb26/Resumes_AI_Rag/src/repositories/resumeRepository.ts)
+
+
+```
+
+```
+Fix is applied; re-running the test suite now.
+
+Ran terminal command: npm test
+
+✅ `npm install` now succeeds and the test suite is passing.
+
+### What changed
+- Updated package.json dev dependency versions:
+  - `typescript` → `^5.3.3`
+  - `jest` → `^29.7.0`
+  - `ts-jest` → `^29.1.1`
+  - `supertest` → `^6.3.3`
+  - `@types/node` → `^20.11.1`
+  - `eslint` → `^8.57.0`
+
+### Verification
+- `npm install` completed successfully
+- `npm test` passed:
+  - `tests/search.test.ts`
+  - `tests/health.test.ts`
+
+### Notes
+- The project currently includes stub implementations for BM25, vector search, embeddings, and LLM services.
+- The `/v1/health` endpoint and MongoDB connection are wired and tested.
+
+If you want, I can now replace the service stubs with real Mistral and Atlas Search logic.
+
+Made changes.

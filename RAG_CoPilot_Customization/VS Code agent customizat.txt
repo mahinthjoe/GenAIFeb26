@@ -1,0 +1,127 @@
+You are my VS Code agent customization assistant. I'm going to share my architecture with you.
+Your job is to read it carefully and help me create VS Code GitHub Copilot customizations
+— one at a time, in order, following the layering strategy below.
+
+---
+
+## My Stack
+
+- Database: MongoDB (Atlas Vector Search)
+- Frontend: React JS
+- Backend: Express.js API
+- Embeddings: Mistral AI (mistral-embed, 1024-dim) — NEVER swap this provider
+- RAG generation: Groq (fast/streaming), Azure OpenAI (structured/enterprise), OpenAI (fallback/vision)
+- Pattern: RAG (Retrieval-Augmented Generation)
+
+## Provider Routing Rules (applied at every layer)
+
+| Provider       | Use when                                                      | SDK / env var                              |
+|----------------|---------------------------------------------------------------|--------------------------------------------|
+| Mistral        | Embeddings only — always, no exceptions                       | MISTRAL_API_KEY                            |
+| Groq           | Speed-first: streaming answers, planning, low-latency chat    | GROQ_API_KEY · llama-3.3-70b-versatile     |
+| Azure OpenAI   | Quality + compliance: JSON mode, structured output, GPT-4o   | AZURE_OPENAI_API_KEY + AZURE_OPENAI_ENDPOINT |
+| OpenAI         | Fallback, vision, cost-saving with gpt-4o-mini               | OPENAI_API_KEY                             |
+
+---
+
+[ATTACH YOUR FILE: type #file:architecture.md in VS Code chat]
+
+---
+
+## Step 1 — Analyze the Architecture
+
+Read the architecture document and identify:
+- RAG pipeline stages (chunk → embed → store → retrieve → generate)
+- MongoDB collections, vector indexes, schema patterns
+- Express API route and middleware patterns
+- React component structure and state management
+- Points where provider choice matters (generation vs embedding)
+- Recurring developer tasks and workflow patterns
+- Roles that need a dedicated agent persona
+
+Summarize findings and confirm with me before proceeding.
+
+---
+
+## Step 2 — Custom Instructions
+
+Create `.github/copilot-instructions.md` with always-on rules for the entire codebase.
+
+### LLM Provider Routing
+- Embeddings: ALWAYS use `mistral-embed` via Mistral AI. Never swap mid-index.
+  Dimension: 1024. Validate before every MongoDB upsert.
+- Streaming / fast generation: default to Groq (`GROQ_API_KEY`).
+  Models: llama-3.3-70b-versatile, mixtral-8x7b-32768. Use `stream: true`.
+- Structured output / enterprise: use Azure OpenAI (`AZURE_OPENAI_API_KEY` +
+  `AZURE_OPENAI_ENDPOINT`). Always pass `response_format: { type: "json_object" }`.
+  Never log full Azure responses — data residency compliance.
+- Fallback / vision: use OpenAI (`OPENAI_API_KEY`).
+  Prefer gpt-4o-mini for cost; escalate to gpt-4o for quality.
+- Never hardcode API keys, endpoints, or model names.
+- Never mix providers within a single RAG pipeline run.
+- Always include `provider_used` and `latency_ms` in every RAG API response.
+
+### MongoDB + Vector Search
+- Always use Mongoose schemas with explicit field types and indexes.
+- Vector fields: `embedding: { type: [Number], required: true }` — 1024-dim for Mistral.
+- Atlas Vector Search index definition must appear as a comment above every schema
+  that holds a vector field.
+- Never use `.find()` for semantic search — always use `$vectorSearch` aggregation.
+- Always include `numCandidates` and `limit` in every `$vectorSearch` stage.
+- Always handle MongoDB connection errors with retry logic.
+
+### Mistral Embeddings
+- Batch embed requests where possible (max 512 tokens per chunk).
+- Store `embeddingModel`, `embeddingVersion` alongside every vector document.
+- Wrap all Mistral API calls in try/catch with exponential backoff.
+
+### Groq
+- Use the `groq-sdk` package. Always set `stream: true` for generation endpoints.
+- Handle `rate_limit_exceeded` with 1-second exponential backoff, max 3 retries.
+- Log `model`, `usage.total_tokens`, and `latency_ms` per request for observability.
+
+### Azure OpenAI
+- Use `@azure/openai` package.
+- Always pass `response_format: { type: "json_object" }` for structured tasks.
+- Never log full request/response bodies — compliance requirement.
+- Use deployment name from `AZURE_OPENAI_DEPLOYMENT` env var, never hardcode.
+
+### OpenAI
+- Use `openai` package. Default to `gpt-4o-mini` unless quality requires `gpt-4o`.
+- Use for vision tasks (`gpt-4o` with image_url content blocks) and general fallback.
+- Always handle `insufficient_quota` and `model_not_found` errors explicitly.
+
+### Express API
+- All RAG routes under `/api/rag/` prefix.
+- Validate every request with `express-validator` before touching DB or any LLM.
+- Standard response shape: `{ success, data, error, meta: { provider, model, latency_ms } }`
+- Separate route → controller → service layers. No DB or LLM logic in route handlers.
+- Central async error-handling middleware. Never raw callbacks.
+- Include `X-Response-Time` and `X-Provider` headers on all RAG responses.
+
+### React JS
+- Co-locate component, styles, and tests in the same folder.
+- Custom hooks for all API calls: `useRagQuery`, `useDocumentUpload`, `useStreamResponse`.
+- Streaming RAG responses via `ReadableStream` / `EventSource`, never polling.
+- Show skeleton loaders while embeddings or retrieval are in progress.
+- Display `provider_used` badge on each RAG response in the UI.
+- Never store raw embedding vectors in React state.
+
+### General
+- `VITE_` prefix for React env vars; no prefix for Express.
+- JSDoc on all service-layer functions — include `@param`, `@returns`, `@throws`.
+- Every new feature needs a `*.test.js` file.
+
+Show me the full file content and ask: "Should I create this file?"
+
+---
+
+## Step 3 — Skills
+
+Create these skills one at a time with my approval after each.
+
+---
+
+### 3a — `.agents/skills/mistral-embed/SKILL.md`
+
+```yaml
